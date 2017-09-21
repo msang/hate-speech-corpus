@@ -2,11 +2,11 @@
 
 ## Corpus description
 
-This is a Twitter corpus built with the aim of representing and analysing hate speech against some minority groups in Italy, nemly muslims, immigrants and Roma. 
+This is a Twitter corpus built with the aim of representing and analysing hate speech against some minority groups in Italy, namely muslims, immigrants and Roma. 
 
 The amount of annotated data currently consists of 1,828 tweets, thoroughly revised by expert annotators.
 
-Similar to the one provided by [Wasseem and Hovy (2016)](https://github.com/ZeerakW/hatespeech), the corpus released here only contains the tweets' ID and their annotation. Each tweet's content can thus be retrieved using the Twitter APIs and querying the corresponding ID.
+Similar to the one provided by [Wasseem and Hovy (2016)](https://github.com/ZeerakW/hatespeech), the corpus released here only contains the tweets' ID and their annotation. The content of each tweet can thus be retrieved using the Twitter APIs and querying the corresponding ID.
 
 
 ## References
