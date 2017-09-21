@@ -1,8 +1,15 @@
 # An Italian Twitter Corpus for Hate Speech Annotation
 
-Here we provide a data set of tweets which have been annotated for hate speech.
+## Corpus description
 
-We provide the ID and the annotation in a tab seperated file. To obtain the individual tweets, use the Twitter API of your choice and query for the ID's provided.
+This is a Twitter corpus built with the aim of representing and analysing hate speech against some minority groups in Italy, nemly muslims, immigrants and Roma. 
+
+The amount of annotated data currently consists of 1,828 tweets.
+
+Similar to the one provided by [Wasseem and Hovy (2016)](https://github.com/ZeerakW/hatespeech), the corpus released here only contains the tweets' ID and their annotation. Individual tweets can be obtained using the Twitter APIs and querying for the IDs provided.
+
+
+## References
 
 If you use the resource, please cite:
 
@@ -19,3 +26,7 @@ If you use the resource, please cite:
   url       = {}
 }
 ~~~
+
+
+## Acknowledgements
+The work is funded by Progetto di Ateneo/CSP 2016 (Immigrants, Hate and Prejudice in Social Media, project S1618_L2_BOSC_01) and by Fondazione CRT (Hate Speech and Social Media, project n. 2016.0688).
