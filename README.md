@@ -6,6 +6,7 @@ We provide the ID and the annotation in a tab seperated file. To obtain the indi
 
 If you use the resource, please cite:
 
+~~~
 @InProceedings{,
   author    = {},
   title     = {},
@@ -17,3 +18,4 @@ If you use the resource, please cite:
   pages     = {},
   url       = {}
 }
+~~~
