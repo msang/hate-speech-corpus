@@ -1,1828 +1,1828 @@
 id_str	target	hate speech	aggressiveness	offensiveness	irony	stereotype
-782117718791221248	ethnic group	no	absent	absent	no	no
-782128837496745984	religion	no	absent	absent	no	no
-782142959789670401	ethnic group	no	absent	absent	no	no
-782145460664463360	Roma	no	absent	absent	no	no
-782165094318956548	ethnic group	no	weak	absent	no	yes
-782195284105371648	Roma	yes	absent	strong	no	yes
-782204731959734272	Roma	no	absent	absent	no	yes
+782117718791221248	ethnic group	no	no	no	no	no
+782128837496745984	religion	no	no	no	no	no
+782142959789670401	ethnic group	no	no	no	no	no
+782145460664463360	Roma	no	no	no	no	no
+782165094318956548	ethnic group	no	weak	no	no	yes
+782195284105371648	Roma	yes	no	strong	no	yes
+782204731959734272	Roma	no	no	no	no	yes
 782241280659169281	Roma	yes	strong	weak	no	yes
-782268118194229248	Roma	no	absent	absent	no	no
-782349137257922560	Roma	no	absent	absent	no	no
-782462957842300930	ethnic group	no	absent	absent	no	no
-782508027815485442	Roma	no	absent	absent	no	yes
-782512181707440128	Roma	no	weak	absent	no	no
-782559406311477248	Roma	yes	weak	absent	no	yes
-782563896934666240	Roma	no	absent	absent	no	no
+782268118194229248	Roma	no	no	no	no	no
+782349137257922560	Roma	no	no	no	no	no
+782462957842300930	ethnic group	no	no	no	no	no
+782508027815485442	Roma	no	no	no	no	yes
+782512181707440128	Roma	no	weak	no	no	no
+782559406311477248	Roma	yes	weak	no	no	yes
+782563896934666240	Roma	no	no	no	no	no
 782584588103278597	ethnic group	no	strong	strong	no	yes
-782588461006090240	religion	no	absent	absent	no	no
+782588461006090240	religion	no	no	no	no	no
 782596951283933184	religion	yes	weak	weak	no	yes
-782614667759849472	ethnic group	yes	weak	absent	yes	yes
-782627058115641345	religion	yes	weak	absent	no	yes
-782640781290983424	ethnic group	no	absent	absent	no	no
-782686657732640768	religion	yes	strong	absent	no	yes
-782787286857494528	ethnic group	no	absent	absent	no	no
-782838281444683776	ethnic group	no	absent	absent	no	no
+782614667759849472	ethnic group	yes	weak	no	yes	yes
+782627058115641345	religion	yes	weak	no	no	yes
+782640781290983424	ethnic group	no	no	no	no	no
+782686657732640768	religion	yes	strong	no	no	yes
+782787286857494528	ethnic group	no	no	no	no	no
+782838281444683776	ethnic group	no	no	no	no	no
 782838442044559361	ethnic group	yes	weak	weak	no	no
-782861476126162944	religion	no	absent	absent	no	no
-782881912247447553	ethnic group	yes	strong	absent	no	no
-782885700588937216	Roma	no	absent	absent	no	yes
-782928453872062464	religion	yes	strong	absent	no	no
-782937100014460928	Roma	no	absent	absent	yes	yes
-782954875701166080	ethnic group	no	absent	absent	no	no
-782964769670201346	ethnic group	no	absent	absent	no	no
+782861476126162944	religion	no	no	no	no	no
+782881912247447553	ethnic group	yes	strong	no	no	no
+782885700588937216	Roma	no	no	no	no	yes
+782928453872062464	religion	yes	strong	no	no	no
+782937100014460928	Roma	no	no	no	yes	yes
+782954875701166080	ethnic group	no	no	no	no	no
+782964769670201346	ethnic group	no	no	no	no	no
 782964889363111936	ethnic group	yes	weak	weak	yes	no
-782984070078795776	Roma	no	absent	absent	no	no
-782994611656593408	ethnic group	no	absent	absent	no	no
-783230960875765760	ethnic group	no	absent	absent	no	no
-783268187286671360	ethnic group	no	weak	absent	no	yes
-783279761347018752	ethnic group	no	absent	absent	yes	yes
+782984070078795776	Roma	no	no	no	no	no
+782994611656593408	ethnic group	no	no	no	no	no
+783230960875765760	ethnic group	no	no	no	no	no
+783268187286671360	ethnic group	no	weak	no	no	yes
+783279761347018752	ethnic group	no	no	no	yes	yes
 783280663365574656	ethnic group	yes	strong	strong	no	yes
-783309188260831232	ethnic group	no	absent	absent	no	no
+783309188260831232	ethnic group	no	no	no	no	no
 783313916256477184	religion	yes	strong	weak	no	yes
-783327159465218048	ethnic group	no	absent	absent	no	no
-783329689318330368	ethnic group	no	absent	absent	yes	no
+783327159465218048	ethnic group	no	no	no	no	no
+783329689318330368	ethnic group	no	no	no	yes	no
 783338814425092096	ethnic group	yes	weak	weak	no	yes
-783397402929758208	ethnic group	no	absent	absent	no	no
+783397402929758208	ethnic group	no	no	no	no	no
 783554861371719680	ethnic group	yes	weak	weak	no	yes
-783587756752506880	ethnic group	no	absent	absent	no	no
-783676262808113154	ethnic group	no	absent	absent	no	no
-783707213076500480	Roma	no	absent	absent	no	no
+783587756752506880	ethnic group	no	no	no	no	no
+783676262808113154	ethnic group	no	no	no	no	no
+783707213076500480	Roma	no	no	no	no	no
 783748112355581955	religion	yes	strong	weak	no	yes
 783755851182014468	ethnic group	no	strong	strong	no	no
-783773921019650048	Roma	no	absent	absent	no	no
-783926619941527552	Roma	no	absent	absent	no	no
-783934877661995008	religion	no	absent	absent	no	no
-783959973554491392	ethnic group	no	absent	absent	yes	no
+783773921019650048	Roma	no	no	no	no	no
+783926619941527552	Roma	no	no	no	no	no
+783934877661995008	religion	no	no	no	no	no
+783959973554491392	ethnic group	no	no	no	yes	no
 783960808774664193	Roma	yes	weak	weak	no	yes
-783981255171969024	ethnic group	no	absent	absent	no	no
-783987466697146368	Roma	yes	absent	weak	no	yes
-784004785720684544	ethnic group	no	absent	absent	no	no
-784020270797512704	ethnic group	no	absent	absent	no	no
-784025768145936385	ethnic group	no	absent	absent	yes	yes
-784034567179108352	ethnic group	no	absent	absent	no	no
-784035762236952577	Roma	yes	weak	absent	no	yes
-784083800393412608	ethnic group	no	absent	absent	no	no
-784088126314676224	ethnic group	no	absent	absent	no	no
-784095070534369280	ethnic group	no	absent	absent	no	no
-784096711992115200	religion	no	absent	absent	no	no
-784128028645392384	ethnic group	no	absent	absent	no	no
-784286894322438144	ethnic group	no	absent	absent	no	no
-784288908288724993	ethnic group	no	weak	absent	no	no
-784299747406327808	religion	no	absent	absent	no	no
-784324392264175616	religion	yes	strong	absent	no	yes
-784339568417832960	ethnic group	no	absent	absent	no	no
-784358453233983488	ethnic group	no	absent	absent	no	no
-784375515343884288	religion	no	absent	absent	no	no
+783981255171969024	ethnic group	no	no	no	no	no
+783987466697146368	Roma	yes	no	weak	no	yes
+784004785720684544	ethnic group	no	no	no	no	no
+784020270797512704	ethnic group	no	no	no	no	no
+784025768145936385	ethnic group	no	no	no	yes	yes
+784034567179108352	ethnic group	no	no	no	no	no
+784035762236952577	Roma	yes	weak	no	no	yes
+784083800393412608	ethnic group	no	no	no	no	no
+784088126314676224	ethnic group	no	no	no	no	no
+784095070534369280	ethnic group	no	no	no	no	no
+784096711992115200	religion	no	no	no	no	no
+784128028645392384	ethnic group	no	no	no	no	no
+784286894322438144	ethnic group	no	no	no	no	no
+784288908288724993	ethnic group	no	weak	no	no	no
+784299747406327808	religion	no	no	no	no	no
+784324392264175616	religion	yes	strong	no	no	yes
+784339568417832960	ethnic group	no	no	no	no	no
+784358453233983488	ethnic group	no	no	no	no	no
+784375515343884288	religion	no	no	no	no	no
 784547646421753856	ethnic group	yes	strong	strong	no	yes
-784563090381762560	ethnic group	no	absent	absent	no	no
-784571660921962496	Roma	yes	strong	absent	no	yes
-784610367687229440	ethnic group	no	absent	absent	no	no
-784623293445922816	ethnic group	no	absent	absent	no	yes
-784650287130746880	religion	no	absent	absent	no	no
-784662160265867264	ethnic group	no	absent	absent	no	no
-784823213687762944	ethnic group	no	absent	absent	no	no
-784825799845220354	Roma	no	absent	absent	no	no
-784826073599049728	Roma	yes	weak	absent	no	yes
-784829485958987777	ethnic group	no	absent	absent	no	no
-785026343587250176	ethnic group	no	absent	strong	no	no
-785074108300009473	ethnic group	no	absent	absent	no	no
-785104488117903360	ethnic group	no	absent	absent	no	no
-785129756354342912	Roma	no	absent	absent	no	yes
-785164297274032128	ethnic group	yes	weak	absent	no	yes
-785168210026954752	religion	no	absent	absent	no	no
-785221715890765825	ethnic group	no	absent	absent	no	no
-785244073204584448	ethnic group	no	absent	absent	no	no
-785321429000749057	religion	no	absent	absent	no	no
-785361434091855872	religion	yes	weak	absent	no	yes
-785378757460623360	religion	no	absent	absent	no	no
-785397803392655360	religion	no	absent	absent	no	no
-785434915349340160	ethnic group	yes	absent	weak	no	yes
-785477723502284801	religion	no	absent	absent	yes	no
-785551308220690432	religion	no	absent	absent	no	no
-785573974365306881	ethnic group	yes	weak	absent	no	yes
-785618295114371072	religion	no	absent	absent	no	no
-785781321255809024	religion	no	absent	absent	no	no
-785802668820140037	religion	no	absent	absent	no	no
-785819618925506560	ethnic group	no	absent	absent	no	no
-785833217035235328	ethnic group	no	absent	absent	no	no
-785859795765059586	ethnic group	no	absent	absent	no	no
-785890511068524544	ethnic group	no	absent	absent	no	no
-785903794118811648	Roma	no	absent	absent	no	no
-785940154846441472	religion	no	absent	absent	no	no
-785956605930143744	Roma	no	absent	absent	no	no
-786060655946264576	Roma	no	absent	absent	no	no
-786094811438866433	Roma	no	absent	absent	no	no
-786107521454968832	Roma	no	absent	absent	no	no
-786108104693915648	ethnic group	no	absent	absent	no	no
-786113424136822784	Roma	no	absent	absent	no	no
-786119098694524928	ethnic group	no	absent	absent	no	no
-786127851426869248	ethnic group	no	absent	absent	no	no
-786256822919241729	ethnic group	no	absent	absent	no	no
-786294386116136960	ethnic group	no	absent	absent	no	no
-786314655379648513	religion	no	absent	absent	no	no
-786329124273057800	religion	no	absent	absent	no	no
+784563090381762560	ethnic group	no	no	no	no	no
+784571660921962496	Roma	yes	strong	no	no	yes
+784610367687229440	ethnic group	no	no	no	no	no
+784623293445922816	ethnic group	no	no	no	no	yes
+784650287130746880	religion	no	no	no	no	no
+784662160265867264	ethnic group	no	no	no	no	no
+784823213687762944	ethnic group	no	no	no	no	no
+784825799845220354	Roma	no	no	no	no	no
+784826073599049728	Roma	yes	weak	no	no	yes
+784829485958987777	ethnic group	no	no	no	no	no
+785026343587250176	ethnic group	no	no	strong	no	no
+785074108300009473	ethnic group	no	no	no	no	no
+785104488117903360	ethnic group	no	no	no	no	no
+785129756354342912	Roma	no	no	no	no	yes
+785164297274032128	ethnic group	yes	weak	no	no	yes
+785168210026954752	religion	no	no	no	no	no
+785221715890765825	ethnic group	no	no	no	no	no
+785244073204584448	ethnic group	no	no	no	no	no
+785321429000749057	religion	no	no	no	no	no
+785361434091855872	religion	yes	weak	no	no	yes
+785378757460623360	religion	no	no	no	no	no
+785397803392655360	religion	no	no	no	no	no
+785434915349340160	ethnic group	yes	no	weak	no	yes
+785477723502284801	religion	no	no	no	yes	no
+785551308220690432	religion	no	no	no	no	no
+785573974365306881	ethnic group	yes	weak	no	no	yes
+785618295114371072	religion	no	no	no	no	no
+785781321255809024	religion	no	no	no	no	no
+785802668820140037	religion	no	no	no	no	no
+785819618925506560	ethnic group	no	no	no	no	no
+785833217035235328	ethnic group	no	no	no	no	no
+785859795765059586	ethnic group	no	no	no	no	no
+785890511068524544	ethnic group	no	no	no	no	no
+785903794118811648	Roma	no	no	no	no	no
+785940154846441472	religion	no	no	no	no	no
+785956605930143744	Roma	no	no	no	no	no
+786060655946264576	Roma	no	no	no	no	no
+786094811438866433	Roma	no	no	no	no	no
+786107521454968832	Roma	no	no	no	no	no
+786108104693915648	ethnic group	no	no	no	no	no
+786113424136822784	Roma	no	no	no	no	no
+786119098694524928	ethnic group	no	no	no	no	no
+786127851426869248	ethnic group	no	no	no	no	no
+786256822919241729	ethnic group	no	no	no	no	no
+786294386116136960	ethnic group	no	no	no	no	no
+786314655379648513	religion	no	no	no	no	no
+786329124273057800	religion	no	no	no	no	no
 786334954565226497	Roma	yes	strong	strong	no	yes
-786352208027619328	Roma	yes	weak	absent	no	yes
-786445005531455488	religion	yes	absent	weak	no	yes
-786482214162800640	ethnic group	no	absent	absent	no	yes
-786490557560487936	ethnic group	no	absent	absent	no	no
-786523308900614144	ethnic group	no	absent	absent	no	no
-786588328460218368	Roma	yes	weak	absent	no	yes
-786636987574870016	Roma	no	absent	absent	no	yes
-786656758215368710	ethnic group	no	absent	absent	no	no
-786691742489841664	ethnic group	no	absent	absent	no	no
-786916701690531844	ethnic group	no	absent	absent	no	no
-786922528275128321	ethnic group	no	absent	absent	no	yes
-786944696996200450	ethnic group	no	weak	absent	yes	yes
-786964008876343296	religion	no	absent	absent	no	no
-7,87169E+17	ethnic group	no	absent	absent	no	yes
-787261172605194243	ethnic group	no	absent	absent	no	no
-787262462676520960	Roma	no	absent	absent	no	yes
-787397683698929664	ethnic group	no	absent	absent	no	no
-787579424191504384	ethnic group	no	absent	absent	no	no
+786352208027619328	Roma	yes	weak	no	no	yes
+786445005531455488	religion	yes	no	weak	no	yes
+786482214162800640	ethnic group	no	no	no	no	yes
+786490557560487936	ethnic group	no	no	no	no	no
+786523308900614144	ethnic group	no	no	no	no	no
+786588328460218368	Roma	yes	weak	no	no	yes
+786636987574870016	Roma	no	no	no	no	yes
+786656758215368710	ethnic group	no	no	no	no	no
+786691742489841664	ethnic group	no	no	no	no	no
+786916701690531844	ethnic group	no	no	no	no	no
+786922528275128321	ethnic group	no	no	no	no	yes
+786944696996200450	ethnic group	no	weak	no	yes	yes
+786964008876343296	religion	no	no	no	no	no
+7,87169E+17	ethnic group	no	no	no	no	yes
+787261172605194243	ethnic group	no	no	no	no	no
+787262462676520960	Roma	no	no	no	no	yes
+787397683698929664	ethnic group	no	no	no	no	no
+787579424191504384	ethnic group	no	no	no	no	no
 787631083462488064	ethnic group	no	weak	weak	no	yes
-787671590171533312	ethnic group	no	absent	absent	no	no
-787781140530749440	religion	no	absent	absent	no	no
-787811086019989504	religion	no	absent	strong	yes	no
-787898361563275265	religion	no	absent	absent	no	no
-787954988840521728	ethnic group	no	weak	absent	yes	no
-787957208059351040	ethnic group	no	absent	absent	no	no
-787982014708326401	ethnic group	no	absent	absent	no	no
-788007765234987008	ethnic group	no	absent	absent	no	no
-788070890810597376	Roma	no	absent	absent	no	yes
-788082558282174464	Roma	no	absent	absent	no	no
-788112502001246208	ethnic group	no	absent	absent	no	no
-788172672362512385	ethnic group	no	absent	absent	no	no
+787671590171533312	ethnic group	no	no	no	no	no
+787781140530749440	religion	no	no	no	no	no
+787811086019989504	religion	no	no	strong	yes	no
+787898361563275265	religion	no	no	no	no	no
+787954988840521728	ethnic group	no	weak	no	yes	no
+787957208059351040	ethnic group	no	no	no	no	no
+787982014708326401	ethnic group	no	no	no	no	no
+788007765234987008	ethnic group	no	no	no	no	no
+788070890810597376	Roma	no	no	no	no	yes
+788082558282174464	Roma	no	no	no	no	no
+788112502001246208	ethnic group	no	no	no	no	no
+788172672362512385	ethnic group	no	no	no	no	no
 788248475263700992	religion	yes	strong	strong	no	yes
 788310535389446144	Roma	yes	weak	strong	no	yes
-788364423920513024	ethnic group	no	absent	absent	no	no
-788407886959484928	ethnic group	no	absent	absent	no	no
-788417675047399424	ethnic group	no	absent	absent	no	no
-788418283032674304	ethnic group	no	absent	absent	yes	no
+788364423920513024	ethnic group	no	no	no	no	no
+788407886959484928	ethnic group	no	no	no	no	no
+788417675047399424	ethnic group	no	no	no	no	no
+788418283032674304	ethnic group	no	no	no	yes	no
 788431588589789184	ethnic group	yes	weak	weak	no	yes
-788446419648647169	ethnic group	yes	weak	absent	no	yes
-788487444731691009	ethnic group	no	weak	absent	no	no
-788780569052188672	ethnic group	no	absent	absent	no	no
-788830297790017536	Roma	no	absent	absent	no	no
-788840798490136577	ethnic group	no	absent	absent	no	no
-788856258296250368	ethnic group	no	absent	absent	no	no
-789089717723725824	ethnic group	no	absent	absent	no	no
-789137844967137280	ethnic group	no	absent	absent	no	no
-789160874028048384	Roma	no	absent	absent	no	no
-789188840875433984	religion	no	absent	absent	no	no
-789197299037634560	ethnic group	no	absent	absent	no	no
-789198534570500097	religion	no	absent	absent	no	no
-789354854166691840	Roma	no	absent	absent	no	yes
-789371934400188417	religion	no	absent	absent	no	no
-789419012409221120	Roma	no	absent	absent	no	yes
-789497235016937472	ethnic group	no	absent	absent	no	no
-789572244418813952	religion	yes	strong	absent	no	yes
-789592420132515840	religion	no	absent	absent	no	no
-789596919681146880	ethnic group	no	absent	absent	no	no
-789760195555713024	religion	no	absent	absent	no	no
-789867513723117568	religion	no	absent	absent	no	no
-789953125520211968	religion	no	absent	absent	no	no
-790012485608824833	Roma	no	absent	absent	no	yes
-790016161148796929	ethnic group	no	absent	absent	no	no
-790140209773944834	religion	no	absent	absent	no	no
-790146254818906112	ethnic group	no	absent	absent	no	no
-790250200006791172	ethnic group	no	absent	absent	no	no
-790268140265566208	Roma	no	absent	absent	no	no
-790271899569942528	Roma	no	weak	absent	no	no
-790334343612882944	religion	no	absent	absent	no	no
-790474797817982976	ethnic group	no	absent	absent	no	no
-790522240899035138	religion	no	absent	absent	no	no
-790528855836651520	ethnic group	no	absent	absent	no	no
-790672827548569600	ethnic group	no	absent	absent	no	no
-790771881267855360	ethnic group	no	absent	absent	no	no
-790782357976604672	ethnic group	no	absent	absent	no	no
-790784490813652992	ethnic group	no	absent	absent	yes	no
-790792320954269696	ethnic group	no	absent	absent	no	no
-790835414466789376	ethnic group	no	absent	absent	no	yes
-790841120192401408	ethnic group	no	absent	absent	no	no
-790858137808928768	Roma	no	absent	absent	no	no
+788446419648647169	ethnic group	yes	weak	no	no	yes
+788487444731691009	ethnic group	no	weak	no	no	no
+788780569052188672	ethnic group	no	no	no	no	no
+788830297790017536	Roma	no	no	no	no	no
+788840798490136577	ethnic group	no	no	no	no	no
+788856258296250368	ethnic group	no	no	no	no	no
+789089717723725824	ethnic group	no	no	no	no	no
+789137844967137280	ethnic group	no	no	no	no	no
+789160874028048384	Roma	no	no	no	no	no
+789188840875433984	religion	no	no	no	no	no
+789197299037634560	ethnic group	no	no	no	no	no
+789198534570500097	religion	no	no	no	no	no
+789354854166691840	Roma	no	no	no	no	yes
+789371934400188417	religion	no	no	no	no	no
+789419012409221120	Roma	no	no	no	no	yes
+789497235016937472	ethnic group	no	no	no	no	no
+789572244418813952	religion	yes	strong	no	no	yes
+789592420132515840	religion	no	no	no	no	no
+789596919681146880	ethnic group	no	no	no	no	no
+789760195555713024	religion	no	no	no	no	no
+789867513723117568	religion	no	no	no	no	no
+789953125520211968	religion	no	no	no	no	no
+790012485608824833	Roma	no	no	no	no	yes
+790016161148796929	ethnic group	no	no	no	no	no
+790140209773944834	religion	no	no	no	no	no
+790146254818906112	ethnic group	no	no	no	no	no
+790250200006791172	ethnic group	no	no	no	no	no
+790268140265566208	Roma	no	no	no	no	no
+790271899569942528	Roma	no	weak	no	no	no
+790334343612882944	religion	no	no	no	no	no
+790474797817982976	ethnic group	no	no	no	no	no
+790522240899035138	religion	no	no	no	no	no
+790528855836651520	ethnic group	no	no	no	no	no
+790672827548569600	ethnic group	no	no	no	no	no
+790771881267855360	ethnic group	no	no	no	no	no
+790782357976604672	ethnic group	no	no	no	no	no
+790784490813652992	ethnic group	no	no	no	yes	no
+790792320954269696	ethnic group	no	no	no	no	no
+790835414466789376	ethnic group	no	no	no	no	yes
+790841120192401408	ethnic group	no	no	no	no	no
+790858137808928768	Roma	no	no	no	no	no
 790874332054556673	Roma	yes	weak	strong	yes	yes
-790875478391451648	ethnic group	no	absent	absent	yes	no
-790891436602449920	ethnic group	no	absent	absent	no	no
-790895137853407232	religion	no	absent	absent	no	no
-790895577089372160	ethnic group	no	absent	absent	no	no
-790940837135908864	religion	no	absent	absent	no	no
-790952215594823680	ethnic group	no	absent	absent	no	no
-790961497170141184	ethnic group	no	absent	absent	no	no
-790984955396489217	ethnic group	no	absent	absent	no	no
-790985467822997504	ethnic group	no	absent	absent	yes	no
+790875478391451648	ethnic group	no	no	no	yes	no
+790891436602449920	ethnic group	no	no	no	no	no
+790895137853407232	religion	no	no	no	no	no
+790895577089372160	ethnic group	no	no	no	no	no
+790940837135908864	religion	no	no	no	no	no
+790952215594823680	ethnic group	no	no	no	no	no
+790961497170141184	ethnic group	no	no	no	no	no
+790984955396489217	ethnic group	no	no	no	no	no
+790985467822997504	ethnic group	no	no	no	yes	no
 790986624511438848	ethnic group	no	weak	weak	no	no
-790993968741789696	ethnic group	no	absent	absent	no	no
-791190994599444480	ethnic group	no	absent	absent	no	no
+790993968741789696	ethnic group	no	no	no	no	no
+791190994599444480	ethnic group	no	no	no	no	no
 791197198461591552	religion	yes	strong	strong	no	yes
-791206624140595200	ethnic group	no	absent	absent	no	no
-791221399205675008	ethnic group	no	weak	absent	no	no
-791222825814228992	religion	no	absent	absent	no	no
-791262026706198528	ethnic group	no	absent	absent	no	no
-791309521410985984	ethnic group	no	absent	absent	yes	no
-791309962060427264	ethnic group	no	absent	absent	no	no
-791312601498222593	Roma	no	absent	absent	no	no
-791325834451808256	Roma	yes	weak	absent	yes	yes
-791326308047396864	ethnic group	no	absent	absent	no	no
-791335220511399936	ethnic group	no	absent	absent	no	no
-791340853050613760	religion	no	absent	absent	no	no
-791384312541224960	Roma	no	absent	absent	no	yes
-791537426388877312	religion	no	absent	absent	no	no
-791561433360244736	Roma	no	absent	absent	no	no
-791564058365399040	religion	no	absent	absent	no	no
-791568532882464768	ethnic group	no	absent	absent	no	no
-791573803776282624	religion	no	absent	absent	no	yes
-791580058049769472	ethnic group	no	absent	absent	no	no
-791593651356962816	ethnic group	no	absent	absent	no	no
-791612669379895296	ethnic group	no	absent	absent	no	no
-791631212699844608	religion	no	absent	absent	no	no
-791665817544974336	ethnic group	no	absent	absent	no	yes
-791709885574504448	ethnic group	no	absent	absent	no	no
+791206624140595200	ethnic group	no	no	no	no	no
+791221399205675008	ethnic group	no	weak	no	no	no
+791222825814228992	religion	no	no	no	no	no
+791262026706198528	ethnic group	no	no	no	no	no
+791309521410985984	ethnic group	no	no	no	yes	no
+791309962060427264	ethnic group	no	no	no	no	no
+791312601498222593	Roma	no	no	no	no	no
+791325834451808256	Roma	yes	weak	no	yes	yes
+791326308047396864	ethnic group	no	no	no	no	no
+791335220511399936	ethnic group	no	no	no	no	no
+791340853050613760	religion	no	no	no	no	no
+791384312541224960	Roma	no	no	no	no	yes
+791537426388877312	religion	no	no	no	no	no
+791561433360244736	Roma	no	no	no	no	no
+791564058365399040	religion	no	no	no	no	no
+791568532882464768	ethnic group	no	no	no	no	no
+791573803776282624	religion	no	no	no	no	yes
+791580058049769472	ethnic group	no	no	no	no	no
+791593651356962816	ethnic group	no	no	no	no	no
+791612669379895296	ethnic group	no	no	no	no	no
+791631212699844608	religion	no	no	no	no	no
+791665817544974336	ethnic group	no	no	no	no	yes
+791709885574504448	ethnic group	no	no	no	no	no
 791726196035821568	ethnic group	yes	weak	weak	no	yes
-791735658268229633	ethnic group	no	absent	absent	no	no
-791762375573696512	ethnic group	no	absent	absent	no	no
-791877224064573440	ethnic group	no	weak	absent	yes	yes
-791908780887769088	ethnic group	no	absent	absent	no	no
-791946383435509760	ethnic group	no	absent	absent	no	no
-791965889050488832	ethnic group	no	absent	absent	no	yes
-791969163531124736	ethnic group	no	absent	absent	no	no
-791999674630766592	ethnic group	no	absent	absent	no	no
-792001708603895808	religion	no	absent	absent	no	no
-792027181710991361	ethnic group	no	absent	absent	no	no
-792028741652316160	ethnic group	no	absent	absent	no	no
-792042299211522048	ethnic group	no	absent	absent	yes	no
-792045289817243648	ethnic group	yes	weak	absent	yes	no
-792064244774735872	ethnic group	yes	weak	absent	no	yes
-792088066710274048	ethnic group	no	absent	absent	no	no
-792116650644353024	Roma	no	weak	absent	no	no
-792319392021348352	ethnic group	no	absent	absent	no	no
-792326930930536448	Roma	yes	weak	absent	no	yes
-792332417105272832	ethnic group	no	absent	absent	no	no
+791735658268229633	ethnic group	no	no	no	no	no
+791762375573696512	ethnic group	no	no	no	no	no
+791877224064573440	ethnic group	no	weak	no	yes	yes
+791908780887769088	ethnic group	no	no	no	no	no
+791946383435509760	ethnic group	no	no	no	no	no
+791965889050488832	ethnic group	no	no	no	no	yes
+791969163531124736	ethnic group	no	no	no	no	no
+791999674630766592	ethnic group	no	no	no	no	no
+792001708603895808	religion	no	no	no	no	no
+792027181710991361	ethnic group	no	no	no	no	no
+792028741652316160	ethnic group	no	no	no	no	no
+792042299211522048	ethnic group	no	no	no	yes	no
+792045289817243648	ethnic group	yes	weak	no	yes	no
+792064244774735872	ethnic group	yes	weak	no	no	yes
+792088066710274048	ethnic group	no	no	no	no	no
+792116650644353024	Roma	no	weak	no	no	no
+792319392021348352	ethnic group	no	no	no	no	no
+792326930930536448	Roma	yes	weak	no	no	yes
+792332417105272832	ethnic group	no	no	no	no	no
 792372339354861568	religion	yes	strong	strong	no	yes
-792420555349569538	ethnic group	no	absent	absent	no	no
-792479514391707649	ethnic group	no	absent	absent	no	no
-792577028721696768	Roma	no	absent	absent	no	no
-792617333042798592	Roma	no	absent	absent	no	yes
-792638875478949888	ethnic group	no	absent	absent	no	no
-792703974013009920	religion	no	absent	absent	no	no
-792715213304758272	ethnic group	yes	absent	weak	no	yes
-792737250366881792	ethnic group	yes	weak	absent	no	yes
-792804438889168897	religion	yes	strong	absent	no	yes
-792961371705147393	ethnic group	no	absent	absent	no	yes
-793059723994103808	Roma	no	absent	absent	no	no
-793069733176369153	religion	no	absent	absent	no	no
+792420555349569538	ethnic group	no	no	no	no	no
+792479514391707649	ethnic group	no	no	no	no	no
+792577028721696768	Roma	no	no	no	no	no
+792617333042798592	Roma	no	no	no	no	yes
+792638875478949888	ethnic group	no	no	no	no	no
+792703974013009920	religion	no	no	no	no	no
+792715213304758272	ethnic group	yes	no	weak	no	yes
+792737250366881792	ethnic group	yes	weak	no	no	yes
+792804438889168897	religion	yes	strong	no	no	yes
+792961371705147393	ethnic group	no	no	no	no	yes
+793059723994103808	Roma	no	no	no	no	no
+793069733176369153	religion	no	no	no	no	no
 793077621319933952	religion	yes	strong	weak	no	yes
 793087779471228928	ethnic group	no	weak	weak	yes	no
-793153163650015232	Roma	no	absent	absent	no	no
-793161196480389121	Roma	no	absent	absent	no	yes
-793171482860027906	ethnic group	yes	absent	strong	no	yes
-793321979705163776	ethnic group	no	absent	absent	no	no
-793375227191365632	Roma	no	absent	absent	no	no
+793153163650015232	Roma	no	no	no	no	no
+793161196480389121	Roma	no	no	no	no	yes
+793171482860027906	ethnic group	yes	no	strong	no	yes
+793321979705163776	ethnic group	no	no	no	no	no
+793375227191365632	Roma	no	no	no	no	no
 793398541553106944	Roma	yes	weak	weak	no	yes
-793513214705274881	ethnic group	no	absent	absent	no	no
+793513214705274881	ethnic group	no	no	no	no	no
 793514083349848064	ethnic group	yes	strong	weak	no	yes
 793521611488067585	ethnic group	no	weak	weak	yes	yes
-793551957252341760	ethnic group	no	absent	absent	no	no
-793700141664534528	ethnic group	no	absent	absent	yes	no
-798849982136655873	Roma	no	absent	absent	no	no
-798929884202442752	ethnic group	no	absent	absent	no	no
+793551957252341760	ethnic group	no	no	no	no	no
+793700141664534528	ethnic group	no	no	no	yes	no
+798849982136655873	Roma	no	no	no	no	no
+798929884202442752	ethnic group	no	no	no	no	no
 798971408764305410	Roma	yes	weak	weak	no	yes
-799080136243113984	Roma	no	absent	absent	no	yes
-799120165879316480	Roma	no	absent	absent	no	yes
-799227664846520320	ethnic group	no	absent	absent	no	no
-799257452936134656	Roma	no	absent	absent	no	no
-799263922461310976	religion	no	absent	absent	no	no
-799265313124585472	ethnic group	no	absent	absent	no	no
-799284908011229184	religion	yes	strong	absent	no	yes
-799289738796683265	Roma	no	weak	absent	no	no
-799310114742304770	Roma	no	absent	absent	no	no
-799330847463710720	ethnic group	no	absent	absent	no	no
-799390153613725696	ethnic group	no	absent	absent	no	no
-799410610270334976	Roma	no	absent	absent	no	no
-799551773367238656	ethnic group	no	absent	absent	no	no
-799555339360370689	ethnic group	no	absent	absent	no	no
-799580440407445505	religion	no	absent	absent	no	no
-799584283522236416	Roma	no	absent	absent	no	no
-799609679760465920	religion	no	absent	absent	no	no
-799650731779358720	ethnic group	no	absent	weak	no	yes
-799652556137824256	Roma	no	absent	absent	no	no
-799711221385691137	Roma	no	absent	absent	no	no
-799925871582789632	ethnic group	yes	absent	weak	yes	yes
-799940351490306048	ethnic group	no	absent	absent	no	no
-799950183131910144	religion	no	absent	absent	no	no
-799954569346301952	ethnic group	yes	weak	absent	yes	yes
-799958408837337088	ethnic group	no	absent	absent	no	no
-799977567210061824	Roma	no	absent	absent	no	yes
-799985919663149056	ethnic group	no	absent	absent	no	yes
+799080136243113984	Roma	no	no	no	no	yes
+799120165879316480	Roma	no	no	no	no	yes
+799227664846520320	ethnic group	no	no	no	no	no
+799257452936134656	Roma	no	no	no	no	no
+799263922461310976	religion	no	no	no	no	no
+799265313124585472	ethnic group	no	no	no	no	no
+799284908011229184	religion	yes	strong	no	no	yes
+799289738796683265	Roma	no	weak	no	no	no
+799310114742304770	Roma	no	no	no	no	no
+799330847463710720	ethnic group	no	no	no	no	no
+799390153613725696	ethnic group	no	no	no	no	no
+799410610270334976	Roma	no	no	no	no	no
+799551773367238656	ethnic group	no	no	no	no	no
+799555339360370689	ethnic group	no	no	no	no	no
+799580440407445505	religion	no	no	no	no	no
+799584283522236416	Roma	no	no	no	no	no
+799609679760465920	religion	no	no	no	no	no
+799650731779358720	ethnic group	no	no	weak	no	yes
+799652556137824256	Roma	no	no	no	no	no
+799711221385691137	Roma	no	no	no	no	no
+799925871582789632	ethnic group	yes	no	weak	yes	yes
+799940351490306048	ethnic group	no	no	no	no	no
+799950183131910144	religion	no	no	no	no	no
+799954569346301952	ethnic group	yes	weak	no	yes	yes
+799958408837337088	ethnic group	no	no	no	no	no
+799977567210061824	Roma	no	no	no	no	yes
+799985919663149056	ethnic group	no	no	no	no	yes
 800001280534081536	Roma	yes	weak	weak	no	yes
-800031888173891584	ethnic group	no	absent	absent	no	no
-800043079541673988	ethnic group	no	absent	absent	no	no
-800110916905955328	religion	no	absent	absent	no	no
-800228040236265473	religion	no	absent	absent	no	yes
-800277682995003393	ethnic group	no	absent	absent	no	no
-800299013820055552	ethnic group	no	absent	absent	no	no
-800317304156192768	ethnic group	no	absent	absent	no	no
-800325652205465601	ethnic group	no	absent	absent	no	no
-800330741741547520	religion	no	absent	weak	yes	yes
-800351847395590144	ethnic group	no	absent	strong	yes	no
-800386103056416768	ethnic group	no	absent	absent	no	no
-800389098406113285	Roma	no	absent	absent	no	no
+800031888173891584	ethnic group	no	no	no	no	no
+800043079541673988	ethnic group	no	no	no	no	no
+800110916905955328	religion	no	no	no	no	no
+800228040236265473	religion	no	no	no	no	yes
+800277682995003393	ethnic group	no	no	no	no	no
+800299013820055552	ethnic group	no	no	no	no	no
+800317304156192768	ethnic group	no	no	no	no	no
+800325652205465601	ethnic group	no	no	no	no	no
+800330741741547520	religion	no	no	weak	yes	yes
+800351847395590144	ethnic group	no	no	strong	yes	no
+800386103056416768	ethnic group	no	no	no	no	no
+800389098406113285	Roma	no	no	no	no	no
 800402690530574336	religion	yes	strong	strong	no	yes
-800590822446133248	ethnic group	no	absent	absent	no	no
-800598566309863424	religion	no	absent	absent	no	no
-800643005287989249	ethnic group	no	absent	weak	no	no
-800730968466358272	religion	no	absent	absent	no	no
-800747202306043904	ethnic group	no	absent	absent	no	yes
-800750009327243264	Roma	no	absent	absent	no	yes
+800590822446133248	ethnic group	no	no	no	no	no
+800598566309863424	religion	no	no	no	no	no
+800643005287989249	ethnic group	no	no	weak	no	no
+800730968466358272	religion	no	no	no	no	no
+800747202306043904	ethnic group	no	no	no	no	yes
+800750009327243264	Roma	no	no	no	no	yes
 800786300257243136	Roma	yes	weak	strong	no	yes
-800795054830977029	Roma	yes	weak	absent	no	no
-800833155536130048	ethnic group	no	absent	absent	no	no
-800833465109385216	religion	no	absent	weak	no	yes
-800972413957615616	ethnic group	no	absent	absent	no	no
-801008739478163456	ethnic group	no	absent	absent	no	no
-801010470845026304	Roma	no	absent	absent	no	yes
-801031283568758784	ethnic group	no	weak	absent	no	no
-801031894947086340	Roma	no	absent	absent	no	no
-801044142847508481	Roma	no	absent	absent	no	no
-801066523905445888	ethnic group	no	absent	absent	no	no
-801072752790740992	Roma	no	absent	absent	no	no
-801399001648168962	ethnic group	no	absent	absent	no	no
-801463075694112769	Roma	yes	strong	absent	no	yes
-801530220293529604	ethnic group	no	absent	absent	yes	no
-801540594363408385	religion	yes	absent	weak	yes	yes
-801543432179240970	ethnic group	no	absent	absent	no	no
-801700517806243840	religion	no	absent	absent	no	no
-801707702099525632	ethnic group	no	absent	absent	no	no
-801754062198861824	religion	no	absent	absent	no	no
-801760721986093056	ethnic group	no	absent	absent	no	no
-801768760659050501	ethnic group	no	absent	absent	no	no
-801806659312091136	Roma	no	absent	absent	no	no
+800795054830977029	Roma	yes	weak	no	no	no
+800833155536130048	ethnic group	no	no	no	no	no
+800833465109385216	religion	no	no	weak	no	yes
+800972413957615616	ethnic group	no	no	no	no	no
+801008739478163456	ethnic group	no	no	no	no	no
+801010470845026304	Roma	no	no	no	no	yes
+801031283568758784	ethnic group	no	weak	no	no	no
+801031894947086340	Roma	no	no	no	no	no
+801044142847508481	Roma	no	no	no	no	no
+801066523905445888	ethnic group	no	no	no	no	no
+801072752790740992	Roma	no	no	no	no	no
+801399001648168962	ethnic group	no	no	no	no	no
+801463075694112769	Roma	yes	strong	no	no	yes
+801530220293529604	ethnic group	no	no	no	yes	no
+801540594363408385	religion	yes	no	weak	yes	yes
+801543432179240970	ethnic group	no	no	no	no	no
+801700517806243840	religion	no	no	no	no	no
+801707702099525632	ethnic group	no	no	no	no	no
+801754062198861824	religion	no	no	no	no	no
+801760721986093056	ethnic group	no	no	no	no	no
+801768760659050501	ethnic group	no	no	no	no	no
+801806659312091136	Roma	no	no	no	no	no
 801809772584570880	religion	yes	strong	strong	no	yes
-801811905899876352	Roma	no	absent	absent	no	no
-801896926979321856	ethnic group	no	absent	absent	no	no
-802050558341287937	ethnic group	no	absent	absent	no	no
-802055168028274688	Roma	no	absent	absent	no	no
+801811905899876352	Roma	no	no	no	no	no
+801896926979321856	ethnic group	no	no	no	no	no
+802050558341287937	ethnic group	no	no	no	no	no
+802055168028274688	Roma	no	no	no	no	no
 802081588423131136	ethnic group	yes	strong	weak	no	yes
-802091193265954816	Roma	no	absent	absent	no	no
+802091193265954816	Roma	no	no	no	no	no
 802094496133615616	ethnic group	yes	weak	weak	no	yes
-802122240443686912	Roma	no	absent	absent	no	no
-802150527815610368	religion	no	absent	absent	no	no
-802184145375989760	religion	yes	strong	absent	no	yes
-802489121277181952	Roma	no	absent	absent	no	no
-802517008415911936	Roma	no	absent	absent	no	no
-802529012996337666	Roma	no	absent	absent	no	no
-802603820786352132	ethnic group	yes	absent	absent	no	yes
-802840699024670720	religion	no	absent	absent	no	no
-802964207721451522	Roma	no	absent	absent	yes	no
-802973829475827713	ethnic group	no	absent	absent	no	no
-803134786076377088	religion	yes	strong	absent	no	yes
+802122240443686912	Roma	no	no	no	no	no
+802150527815610368	religion	no	no	no	no	no
+802184145375989760	religion	yes	strong	no	no	yes
+802489121277181952	Roma	no	no	no	no	no
+802517008415911936	Roma	no	no	no	no	no
+802529012996337666	Roma	no	no	no	no	no
+802603820786352132	ethnic group	yes	no	no	no	yes
+802840699024670720	religion	no	no	no	no	no
+802964207721451522	Roma	no	no	no	yes	no
+802973829475827713	ethnic group	no	no	no	no	no
+803134786076377088	religion	yes	strong	no	no	yes
 803220333813579776	ethnic group	yes	weak	weak	no	yes
-803236142653067264	ethnic group	yes	weak	absent	no	yes
-803263581009498112	ethnic group	no	absent	absent	no	no
+803236142653067264	ethnic group	yes	weak	no	no	yes
+803263581009498112	ethnic group	no	no	no	no	no
 803295681829945344	ethnic group	yes	weak	weak	no	yes
-803311150184153089	ethnic group	no	absent	absent	no	no
+803311150184153089	ethnic group	no	no	no	no	no
 803313690929991680	religion	yes	weak	strong	no	yes
-803330661843136512	Roma	yes	weak	absent	no	yes
+803330661843136512	Roma	yes	weak	no	no	yes
 803341250627796992	religion	yes	weak	strong	no	yes
-803376526972649472	ethnic group	no	absent	absent	yes	yes
-803536528593092608	Roma	no	absent	absent	no	yes
-803565957595746304	Roma	yes	absent	absent	no	yes
-803586069920813057	Roma	yes	absent	strong	no	yes
-803601289238216704	religion	no	absent	absent	no	no
-803708040411312128	Roma	yes	strong	absent	no	no
-803740090073812992	ethnic group	no	absent	absent	no	yes
-803796261073813509	religion	no	absent	absent	no	no
-803836180286541824	religion	no	absent	absent	no	no
-803863687912128512	Roma	no	absent	absent	no	no
-803873262891573249	ethnic group	no	absent	absent	no	no
-803943618377617408	Roma	no	weak	absent	no	yes
-803955233885974533	religion	no	absent	absent	no	no
-804020699874656260	Roma	no	absent	absent	no	no
+803376526972649472	ethnic group	no	no	no	yes	yes
+803536528593092608	Roma	no	no	no	no	yes
+803565957595746304	Roma	yes	no	no	no	yes
+803586069920813057	Roma	yes	no	strong	no	yes
+803601289238216704	religion	no	no	no	no	no
+803708040411312128	Roma	yes	strong	no	no	no
+803740090073812992	ethnic group	no	no	no	no	yes
+803796261073813509	religion	no	no	no	no	no
+803836180286541824	religion	no	no	no	no	no
+803863687912128512	Roma	no	no	no	no	no
+803873262891573249	ethnic group	no	no	no	no	no
+803943618377617408	Roma	no	weak	no	no	yes
+803955233885974533	religion	no	no	no	no	no
+804020699874656260	Roma	no	no	no	no	no
 804055701110878217	Roma	yes	weak	weak	no	yes
-804075341002264579	ethnic group	no	absent	weak	no	yes
-804251330562899969	ethnic group	no	absent	absent	no	no
-804264868081790976	ethnic group	no	absent	absent	no	no
-804338503773458432	religion	no	absent	absent	no	no
-804365781068812288	religion	no	absent	absent	no	no
-804606696081465344	Roma	yes	absent	weak	no	yes
-804623994452381697	Roma	no	absent	absent	no	no
-804624237801521152	Roma	no	absent	absent	no	yes
-804694909097803777	ethnic group	no	absent	absent	no	no
-804722912573931521	ethnic group	no	absent	absent	no	no
-804765921894133763	ethnic group	no	absent	absent	no	no
-804816845178109952	ethnic group	no	absent	absent	no	no
+804075341002264579	ethnic group	no	no	weak	no	yes
+804251330562899969	ethnic group	no	no	no	no	no
+804264868081790976	ethnic group	no	no	no	no	no
+804338503773458432	religion	no	no	no	no	no
+804365781068812288	religion	no	no	no	no	no
+804606696081465344	Roma	yes	no	weak	no	yes
+804623994452381697	Roma	no	no	no	no	no
+804624237801521152	Roma	no	no	no	no	yes
+804694909097803777	ethnic group	no	no	no	no	no
+804722912573931521	ethnic group	no	no	no	no	no
+804765921894133763	ethnic group	no	no	no	no	no
+804816845178109952	ethnic group	no	no	no	no	no
 805145430011035648	ethnic group	no	weak	weak	yes	yes
-805327577682477057	ethnic group	no	absent	absent	no	no
-805352162075312128	ethnic group	no	absent	absent	yes	yes
-805384507725647872	ethnic group	yes	absent	absent	no	yes
-805385274087895040	Roma	no	absent	absent	no	yes
-805433543212101632	ethnic group	no	absent	absent	no	no
-805441906830409728	ethnic group	yes	weak	absent	no	no
-805586049564979200	ethnic group	no	absent	absent	no	no
-805675793263239168	ethnic group	no	absent	absent	no	no
-805677698576216064	ethnic group	no	absent	absent	no	no
-805681121933594624	religion	no	absent	absent	no	no
-805717998099120128	religion	no	absent	absent	no	no
-805731158701068288	ethnic group	no	absent	absent	no	no
-806119357365571584	ethnic group	no	absent	absent	no	yes
-806144970126139392	Roma	no	absent	absent	no	no
-806156637304160257	ethnic group	yes	absent	absent	no	yes
-806167818777534465	ethnic group	no	absent	absent	no	no
-806255204249247744	religion	no	absent	absent	no	no
+805327577682477057	ethnic group	no	no	no	no	no
+805352162075312128	ethnic group	no	no	no	yes	yes
+805384507725647872	ethnic group	yes	no	no	no	yes
+805385274087895040	Roma	no	no	no	no	yes
+805433543212101632	ethnic group	no	no	no	no	no
+805441906830409728	ethnic group	yes	weak	no	no	no
+805586049564979200	ethnic group	no	no	no	no	no
+805675793263239168	ethnic group	no	no	no	no	no
+805677698576216064	ethnic group	no	no	no	no	no
+805681121933594624	religion	no	no	no	no	no
+805717998099120128	religion	no	no	no	no	no
+805731158701068288	ethnic group	no	no	no	no	no
+806119357365571584	ethnic group	no	no	no	no	yes
+806144970126139392	Roma	no	no	no	no	no
+806156637304160257	ethnic group	yes	no	no	no	yes
+806167818777534465	ethnic group	no	no	no	no	no
+806255204249247744	religion	no	no	no	no	no
 806263891084935168	religion	yes	weak	weak	no	yes
-806264134203559936	ethnic group	no	absent	absent	no	no
-806400444167782401	religion	no	absent	absent	no	no
-806414689072779268	religion	no	absent	absent	no	no
-806418862317203456	Roma	no	absent	absent	no	yes
-806426194518360064	ethnic group	no	absent	absent	no	no
-806447435904061441	religion	no	absent	absent	no	no
-806450158380679168	Roma	no	absent	absent	no	no
-806458470086176769	religion	yes	absent	weak	no	yes
-806465004325240832	Roma	yes	absent	strong	yes	yes
-806543842258264068	Roma	no	absent	absent	no	no
-806644483186040832	ethnic group	no	absent	absent	no	no
-806789683355095041	ethnic group	no	absent	absent	no	no
-806795885564694528	Roma	no	absent	absent	no	no
-806840078102384640	religion	no	absent	absent	no	no
-806851103329550337	ethnic group	no	absent	absent	no	no
-806853289337901056	religion	no	absent	absent	no	no
-806936934832545792	ethnic group	no	weak	absent	no	no
+806264134203559936	ethnic group	no	no	no	no	no
+806400444167782401	religion	no	no	no	no	no
+806414689072779268	religion	no	no	no	no	no
+806418862317203456	Roma	no	no	no	no	yes
+806426194518360064	ethnic group	no	no	no	no	no
+806447435904061441	religion	no	no	no	no	no
+806450158380679168	Roma	no	no	no	no	no
+806458470086176769	religion	yes	no	weak	no	yes
+806465004325240832	Roma	yes	no	strong	yes	yes
+806543842258264068	Roma	no	no	no	no	no
+806644483186040832	ethnic group	no	no	no	no	no
+806789683355095041	ethnic group	no	no	no	no	no
+806795885564694528	Roma	no	no	no	no	no
+806840078102384640	religion	no	no	no	no	no
+806851103329550337	ethnic group	no	no	no	no	no
+806853289337901056	religion	no	no	no	no	no
+806936934832545792	ethnic group	no	weak	no	no	no
 806946815941767168	Roma	yes	weak	weak	no	yes
-807148035243474944	ethnic group	no	absent	absent	no	no
-807148952483139584	Roma	no	absent	absent	no	yes
-807149061593776128	Roma	no	weak	absent	no	yes
-807151145277919232	Roma	no	absent	absent	no	no
-807166742984278016	ethnic group	no	absent	absent	no	no
-807192033563705344	ethnic group	no	absent	absent	no	no
-807210233395347456	Roma	no	absent	absent	no	no
-807221074802909184	Roma	no	weak	absent	no	yes
-807298613516832768	Roma	no	absent	absent	no	no
-807365075409444866	Roma	no	absent	absent	no	no
-807448943181332480	Roma	no	absent	absent	no	no
-807472658610851840	Roma	no	absent	weak	yes	yes
-807502785768026112	Roma	no	absent	absent	no	no
-807562860314394624	ethnic group	no	absent	absent	no	no
-807605444269182976	Roma	no	absent	absent	no	no
-807640472634224640	religion	no	absent	absent	no	no
-807649017098289152	Roma	no	absent	absent	no	yes
-807686671324086272	Roma	no	absent	absent	no	yes
-807712437998911488	ethnic group	no	absent	strong	no	no
-807722727259983872	Roma	no	absent	absent	no	no
-807744440249053184	religion	yes	absent	weak	no	no
-807864351650672640	Roma	no	absent	absent	no	yes
-807873886222159872	Roma	no	absent	absent	no	yes
-807883975406587905	Roma	no	absent	absent	no	yes
-807943386279854080	religion	no	absent	absent	no	no
-808011129876267008	religion	no	absent	absent	no	no
-808013926847889408	religion	no	absent	weak	no	no
-808027409521983489	religion	no	absent	absent	no	no
-808094662321967105	religion	no	absent	absent	no	no
-808200720637972480	Roma	no	absent	absent	no	no
-808205450256777217	Roma	no	absent	weak	yes	yes
-808287541275324416	ethnic group	no	absent	absent	no	no
-808322691946180608	ethnic group	no	absent	absent	yes	no
-808325206804692992	Roma	no	absent	absent	no	no
-808331004905717760	Roma	no	absent	absent	no	no
+807148035243474944	ethnic group	no	no	no	no	no
+807148952483139584	Roma	no	no	no	no	yes
+807149061593776128	Roma	no	weak	no	no	yes
+807151145277919232	Roma	no	no	no	no	no
+807166742984278016	ethnic group	no	no	no	no	no
+807192033563705344	ethnic group	no	no	no	no	no
+807210233395347456	Roma	no	no	no	no	no
+807221074802909184	Roma	no	weak	no	no	yes
+807298613516832768	Roma	no	no	no	no	no
+807365075409444866	Roma	no	no	no	no	no
+807448943181332480	Roma	no	no	no	no	no
+807472658610851840	Roma	no	no	weak	yes	yes
+807502785768026112	Roma	no	no	no	no	no
+807562860314394624	ethnic group	no	no	no	no	no
+807605444269182976	Roma	no	no	no	no	no
+807640472634224640	religion	no	no	no	no	no
+807649017098289152	Roma	no	no	no	no	yes
+807686671324086272	Roma	no	no	no	no	yes
+807712437998911488	ethnic group	no	no	strong	no	no
+807722727259983872	Roma	no	no	no	no	no
+807744440249053184	religion	yes	no	weak	no	no
+807864351650672640	Roma	no	no	no	no	yes
+807873886222159872	Roma	no	no	no	no	yes
+807883975406587905	Roma	no	no	no	no	yes
+807943386279854080	religion	no	no	no	no	no
+808011129876267008	religion	no	no	no	no	no
+808013926847889408	religion	no	no	weak	no	no
+808027409521983489	religion	no	no	no	no	no
+808094662321967105	religion	no	no	no	no	no
+808200720637972480	Roma	no	no	no	no	no
+808205450256777217	Roma	no	no	weak	yes	yes
+808287541275324416	ethnic group	no	no	no	no	no
+808322691946180608	ethnic group	no	no	no	yes	no
+808325206804692992	Roma	no	no	no	no	no
+808331004905717760	Roma	no	no	no	no	no
 808378705429098497	ethnic group	no	weak	weak	no	yes
 808388809931026432	ethnic group	yes	weak	weak	yes	yes
-808398288269561856	religion	no	absent	absent	no	no
-808400282107445250	Roma	yes	absent	strong	no	yes
-808404361428746246	Roma	no	weak	absent	yes	yes
-808570455363899392	ethnic group	no	absent	absent	no	no
-808596264640253953	Roma	no	absent	absent	no	yes
-808736969551413248	ethnic group	yes	weak	absent	yes	yes
-808829071832612864	Roma	yes	absent	weak	no	yes
-808845776172568576	Roma	no	absent	absent	no	no
-808888725648408576	ethnic group	no	absent	absent	no	no
-808992753757618176	ethnic group	no	absent	absent	no	no
-808999070555578368	religion	no	absent	absent	no	no
-809031206117445632	Roma	no	absent	absent	no	no
-809099575587966976	ethnic group	no	absent	absent	no	no
+808398288269561856	religion	no	no	no	no	no
+808400282107445250	Roma	yes	no	strong	no	yes
+808404361428746246	Roma	no	weak	no	yes	yes
+808570455363899392	ethnic group	no	no	no	no	no
+808596264640253953	Roma	no	no	no	no	yes
+808736969551413248	ethnic group	yes	weak	no	yes	yes
+808829071832612864	Roma	yes	no	weak	no	yes
+808845776172568576	Roma	no	no	no	no	no
+808888725648408576	ethnic group	no	no	no	no	no
+808992753757618176	ethnic group	no	no	no	no	no
+808999070555578368	religion	no	no	no	no	no
+809031206117445632	Roma	no	no	no	no	no
+809099575587966976	ethnic group	no	no	no	no	no
 809123474862211073	ethnic group	yes	weak	weak	no	yes
-809133355530760192	Roma	no	absent	absent	no	no
-809314482367369216	Roma	no	absent	absent	no	yes
-809334105926144001	ethnic group	no	absent	absent	no	no
-809349927499350017	ethnic group	no	absent	absent	no	no
+809133355530760192	Roma	no	no	no	no	no
+809314482367369216	Roma	no	no	no	no	yes
+809334105926144001	ethnic group	no	no	no	no	no
+809349927499350017	ethnic group	no	no	no	no	no
 809360515873013761	religion	yes	strong	strong	no	no
-809404979211603968	Roma	no	absent	absent	no	no
-809451815632826368	Roma	no	absent	absent	no	no
-809473358748323841	Roma	no	absent	weak	no	yes
-809683293331460096	Roma	no	absent	absent	no	yes
-809713329568673792	religion	no	absent	absent	no	no
-809748882334871552	Roma	yes	absent	weak	no	yes
-809789748260827137	religion	no	absent	absent	no	no
+809404979211603968	Roma	no	no	no	no	no
+809451815632826368	Roma	no	no	no	no	no
+809473358748323841	Roma	no	no	weak	no	yes
+809683293331460096	Roma	no	no	no	no	yes
+809713329568673792	religion	no	no	no	no	no
+809748882334871552	Roma	yes	no	weak	no	yes
+809789748260827137	religion	no	no	no	no	no
 809846439815905280	Roma	no	weak	weak	no	yes
-810061767686713344	Roma	no	absent	absent	no	yes
-810081052446392321	Roma	no	absent	absent	no	no
-810084817710841856	Roma	no	absent	absent	no	no
-810086995682820100	Roma	no	absent	absent	no	no
-810087176134414336	Roma	no	absent	absent	no	no
-810088804908433408	Roma	no	absent	absent	no	no
+810061767686713344	Roma	no	no	no	no	yes
+810081052446392321	Roma	no	no	no	no	no
+810084817710841856	Roma	no	no	no	no	no
+810086995682820100	Roma	no	no	no	no	no
+810087176134414336	Roma	no	no	no	no	no
+810088804908433408	Roma	no	no	no	no	no
 810116813182877696	Roma	yes	weak	strong	no	yes
-810119100294897664	Roma	no	absent	absent	no	no
-810143401119252480	ethnic group	no	absent	absent	no	no
-810157159099076613	ethnic group	no	absent	absent	no	no
-810162622117060608	religion	no	absent	weak	yes	no
-810184440982872064	Roma	no	absent	absent	no	no
-810190030186704896	religion	no	absent	absent	no	yes
-810209255420784642	Roma	no	absent	absent	no	no
-810220987358842880	Roma	no	absent	absent	no	no
-810338889407889408	religion	no	absent	strong	no	no
-810414816808632320	religion	no	absent	absent	no	no
-810448091128233985	Roma	no	absent	absent	no	no
-810454719332229120	religion	no	absent	absent	no	no
-810476036571938816	ethnic group	no	absent	absent	no	no
-810498153166360576	Roma	no	absent	absent	no	no
-810499210961448960	ethnic group	no	absent	absent	no	no
+810119100294897664	Roma	no	no	no	no	no
+810143401119252480	ethnic group	no	no	no	no	no
+810157159099076613	ethnic group	no	no	no	no	no
+810162622117060608	religion	no	no	weak	yes	no
+810184440982872064	Roma	no	no	no	no	no
+810190030186704896	religion	no	no	no	no	yes
+810209255420784642	Roma	no	no	no	no	no
+810220987358842880	Roma	no	no	no	no	no
+810338889407889408	religion	no	no	strong	no	no
+810414816808632320	religion	no	no	no	no	no
+810448091128233985	Roma	no	no	no	no	no
+810454719332229120	religion	no	no	no	no	no
+810476036571938816	ethnic group	no	no	no	no	no
+810498153166360576	Roma	no	no	no	no	no
+810499210961448960	ethnic group	no	no	no	no	no
 810540481335750656	ethnic group	yes	strong	strong	no	yes
-810743627966189568	religion	no	absent	absent	no	no
-810744113314332672	religion	no	absent	absent	no	no
-810785911323688964	ethnic group	no	weak	absent	no	no
-810805319072878592	Roma	no	absent	absent	no	yes
-810825627528003585	Roma	no	absent	absent	no	yes
+810743627966189568	religion	no	no	no	no	no
+810744113314332672	religion	no	no	no	no	no
+810785911323688964	ethnic group	no	weak	no	no	no
+810805319072878592	Roma	no	no	no	no	yes
+810825627528003585	Roma	no	no	no	no	yes
 810833269126299648	religion	no	weak	weak	no	yes
-810850254081888258	religion	no	absent	absent	no	no
-810875366432718848	religion	no	absent	absent	yes	no
-810893876110249985	ethnic group	no	absent	absent	no	no
-810925182227509248	religion	no	absent	absent	no	no
+810850254081888258	religion	no	no	no	no	no
+810875366432718848	religion	no	no	no	yes	no
+810893876110249985	ethnic group	no	no	no	no	no
+810925182227509248	religion	no	no	no	no	no
 810943347439374336	Roma	yes	weak	strong	no	yes
-810943756593725443	religion	no	absent	strong	no	yes
-810951182692847616	religion	no	absent	absent	no	no
+810943756593725443	religion	no	no	strong	no	yes
+810951182692847616	religion	no	no	no	no	no
 810954190201692160	religion	yes	weak	weak	no	yes
-810956736215523328	ethnic group	yes	absent	absent	yes	yes
-810956828163117056	religion	no	absent	strong	yes	no
-810961324075261957	religion	no	absent	absent	no	no
-810966203959283712	religion	no	weak	absent	no	no
-810968100539629568	religion	yes	strong	absent	no	no
-810986816463601664	ethnic group	no	absent	absent	yes	yes
-811020508296859648	religion	no	absent	absent	no	no
-811073802440470528	ethnic group	no	absent	absent	no	no
-811121041108008960	religion	no	absent	absent	no	no
-811122818557493248	religion	no	absent	absent	no	no
-811140367668101121	religion	no	absent	absent	no	no
-811153930285674497	ethnic group	no	absent	weak	no	yes
-811156813181841408	religion	no	absent	absent	no	no
-811172713897267200	religion	no	weak	absent	no	yes
-811183087350595584	religion	no	absent	absent	no	no
-811184714144972800	religion	no	absent	weak	no	yes
+810956736215523328	ethnic group	yes	no	no	yes	yes
+810956828163117056	religion	no	no	strong	yes	no
+810961324075261957	religion	no	no	no	no	no
+810966203959283712	religion	no	weak	no	no	no
+810968100539629568	religion	yes	strong	no	no	no
+810986816463601664	ethnic group	no	no	no	yes	yes
+811020508296859648	religion	no	no	no	no	no
+811073802440470528	ethnic group	no	no	no	no	no
+811121041108008960	religion	no	no	no	no	no
+811122818557493248	religion	no	no	no	no	no
+811140367668101121	religion	no	no	no	no	no
+811153930285674497	ethnic group	no	no	weak	no	yes
+811156813181841408	religion	no	no	no	no	no
+811172713897267200	religion	no	weak	no	no	yes
+811183087350595584	religion	no	no	no	no	no
+811184714144972800	religion	no	no	weak	no	yes
 811189846379266048	religion	yes	weak	strong	no	yes
-811201636014190592	religion	no	absent	absent	no	no
-811213051340976128	religion	no	absent	absent	no	no
-811222769056808960	religion	no	absent	absent	no	yes
-811239481634328580	religion	yes	strong	absent	no	yes
-811244348268564480	Roma	no	absent	absent	no	no
-811251122321190913	religion	no	absent	absent	no	no
-811265819510505474	religion	no	weak	absent	no	no
-811294783473860608	religion	no	absent	absent	no	no
-811336077474693120	religion	no	absent	weak	no	yes
-811358647058100224	religion	no	absent	weak	yes	no
-811459109350506496	ethnic group	no	absent	absent	no	no
-811472322725113857	religion	no	absent	absent	no	no
-811492204988473344	religion	no	absent	absent	no	no
-811496596680638464	Roma	no	absent	absent	no	no
-811518443971289088	Roma	no	absent	absent	no	no
-811529986427514881	religion	no	absent	absent	yes	no
-811535782032928768	religion	no	absent	absent	yes	no
-811567139467460608	ethnic group	no	absent	absent	no	yes
+811201636014190592	religion	no	no	no	no	no
+811213051340976128	religion	no	no	no	no	no
+811222769056808960	religion	no	no	no	no	yes
+811239481634328580	religion	yes	strong	no	no	yes
+811244348268564480	Roma	no	no	no	no	no
+811251122321190913	religion	no	no	no	no	no
+811265819510505474	religion	no	weak	no	no	no
+811294783473860608	religion	no	no	no	no	no
+811336077474693120	religion	no	no	weak	no	yes
+811358647058100224	religion	no	no	weak	yes	no
+811459109350506496	ethnic group	no	no	no	no	no
+811472322725113857	religion	no	no	no	no	no
+811492204988473344	religion	no	no	no	no	no
+811496596680638464	Roma	no	no	no	no	no
+811518443971289088	Roma	no	no	no	no	no
+811529986427514881	religion	no	no	no	yes	no
+811535782032928768	religion	no	no	no	yes	no
+811567139467460608	ethnic group	no	no	no	no	yes
 811586090297622528	ethnic group	yes	weak	weak	no	no
-811653711558754309	religion	no	absent	absent	no	no
-811662770928254976	religion	no	strong	absent	no	no
-811671193728258048	religion	no	absent	absent	no	no
-811685028342206464	ethnic group	no	absent	absent	no	no
-811766182781063168	Roma	no	weak	absent	no	no
-811795893284388864	religion	no	weak	absent	no	no
-811816268378632192	Roma	no	absent	absent	no	no
-811836024095645696	ethnic group	no	absent	absent	no	no
-811837471990358016	ethnic group	no	absent	absent	no	no
-811871875617947648	religion	no	absent	absent	yes	no
-811938772795486209	religion	no	absent	weak	no	yes
-811948353575669760	religion	no	absent	absent	no	yes
-811950662456143873	religion	no	absent	absent	no	no
-811982053772247040	religion	no	absent	absent	no	no
-811986553589395456	religion	yes	strong	absent	no	yes
-812006103022190592	Roma	no	absent	absent	no	no
-812006121535897601	Roma	no	absent	absent	no	no
-812018171876147200	Roma	no	absent	absent	no	no
-812020510280314880	Roma	no	absent	absent	no	no
-812022487030566912	religion	no	absent	weak	no	yes
-812033471862439940	ethnic group	no	absent	absent	no	no
-812050189355782144	ethnic group	no	absent	absent	yes	yes
-812051259997962241	ethnic group	no	absent	absent	no	no
-812064920615448577	religion	no	absent	absent	no	no
-812203345465245697	religion	no	absent	absent	no	no
-812221749446094848	religion	no	absent	absent	no	no
-812221882242109441	Roma	no	absent	absent	no	no
-812226074520289280	religion	no	absent	absent	no	no
-812236914879303680	religion	no	absent	absent	no	no
+811653711558754309	religion	no	no	no	no	no
+811662770928254976	religion	no	strong	no	no	no
+811671193728258048	religion	no	no	no	no	no
+811685028342206464	ethnic group	no	no	no	no	no
+811766182781063168	Roma	no	weak	no	no	no
+811795893284388864	religion	no	weak	no	no	no
+811816268378632192	Roma	no	no	no	no	no
+811836024095645696	ethnic group	no	no	no	no	no
+811837471990358016	ethnic group	no	no	no	no	no
+811871875617947648	religion	no	no	no	yes	no
+811938772795486209	religion	no	no	weak	no	yes
+811948353575669760	religion	no	no	no	no	yes
+811950662456143873	religion	no	no	no	no	no
+811982053772247040	religion	no	no	no	no	no
+811986553589395456	religion	yes	strong	no	no	yes
+812006103022190592	Roma	no	no	no	no	no
+812006121535897601	Roma	no	no	no	no	no
+812018171876147200	Roma	no	no	no	no	no
+812020510280314880	Roma	no	no	no	no	no
+812022487030566912	religion	no	no	weak	no	yes
+812033471862439940	ethnic group	no	no	no	no	no
+812050189355782144	ethnic group	no	no	no	yes	yes
+812051259997962241	ethnic group	no	no	no	no	no
+812064920615448577	religion	no	no	no	no	no
+812203345465245697	religion	no	no	no	no	no
+812221749446094848	religion	no	no	no	no	no
+812221882242109441	Roma	no	no	no	no	no
+812226074520289280	religion	no	no	no	no	no
+812236914879303680	religion	no	no	no	no	no
 812240729548394496	religion	yes	weak	weak	no	yes
 812243081412153344	religion	yes	strong	strong	no	yes
-812250984697171970	religion	no	absent	absent	no	no
-812251409865445377	religion	no	absent	absent	no	no
-812253914296946688	religion	no	absent	absent	yes	no
-812256056369942528	religion	no	absent	absent	no	no
-812261785864695808	religion	no	absent	absent	no	no
-812270386926718976	religion	no	absent	absent	no	no
-812285183466569728	religion	no	absent	absent	yes	no
-812286546552520704	religion	no	absent	absent	no	no
-812287201337872384	religion	no	absent	absent	no	no
-812304446403313665	Roma	no	absent	absent	no	no
-812308434225942528	religion	no	absent	absent	no	no
-812314324681289728	religion	no	absent	absent	no	no
-812315224485281792	religion	no	absent	absent	no	no
-812316997212143616	religion	no	absent	absent	no	no
-812319490834857984	ethnic group	no	absent	weak	no	no
+812250984697171970	religion	no	no	no	no	no
+812251409865445377	religion	no	no	no	no	no
+812253914296946688	religion	no	no	no	yes	no
+812256056369942528	religion	no	no	no	no	no
+812261785864695808	religion	no	no	no	no	no
+812270386926718976	religion	no	no	no	no	no
+812285183466569728	religion	no	no	no	yes	no
+812286546552520704	religion	no	no	no	no	no
+812287201337872384	religion	no	no	no	no	no
+812304446403313665	Roma	no	no	no	no	no
+812308434225942528	religion	no	no	no	no	no
+812314324681289728	religion	no	no	no	no	no
+812315224485281792	religion	no	no	no	no	no
+812316997212143616	religion	no	no	no	no	no
+812319490834857984	ethnic group	no	no	weak	no	no
 812322399475601408	religion	no	weak	weak	no	yes
-812323904219914240	religion	no	absent	absent	no	yes
+812323904219914240	religion	no	no	no	no	yes
 812326563232485382	religion	yes	strong	weak	no	yes
-812335327125917697	religion	no	absent	absent	no	no
-812342052730048512	ethnic group	no	absent	absent	no	no
-812346579055243264	religion	no	absent	absent	no	no
-812348114338246656	religion	no	absent	absent	no	no
-812352222210260992	religion	no	absent	weak	yes	no
-812352907869847552	religion	no	absent	absent	no	no
-812362746767544323	religion	no	absent	absent	no	no
-812375442225295360	religion	no	absent	absent	no	no
-812381183900258304	religion	no	absent	absent	no	no
-812381569360936960	ethnic group	no	absent	absent	no	no
-812391368018563074	religion	no	absent	absent	yes	no
-812392328904187904	religion	no	strong	absent	no	no
-812573620765622272	religion	no	absent	absent	no	no
-812586181070299136	ethnic group	no	absent	absent	no	no
-812590458039889920	religion	no	absent	absent	no	no
-812634008634933248	ethnic group	no	absent	absent	no	no
-812651939716472832	religion	no	absent	absent	no	no
-812703892467236864	religion	no	absent	absent	no	no
-812728955149160448	religion	no	absent	absent	no	no
-812753499083640832	religion	no	absent	absent	no	no
-812754459923255297	religion	no	absent	absent	no	no
+812335327125917697	religion	no	no	no	no	no
+812342052730048512	ethnic group	no	no	no	no	no
+812346579055243264	religion	no	no	no	no	no
+812348114338246656	religion	no	no	no	no	no
+812352222210260992	religion	no	no	weak	yes	no
+812352907869847552	religion	no	no	no	no	no
+812362746767544323	religion	no	no	no	no	no
+812375442225295360	religion	no	no	no	no	no
+812381183900258304	religion	no	no	no	no	no
+812381569360936960	ethnic group	no	no	no	no	no
+812391368018563074	religion	no	no	no	yes	no
+812392328904187904	religion	no	strong	no	no	no
+812573620765622272	religion	no	no	no	no	no
+812586181070299136	ethnic group	no	no	no	no	no
+812590458039889920	religion	no	no	no	no	no
+812634008634933248	ethnic group	no	no	no	no	no
+812651939716472832	religion	no	no	no	no	no
+812703892467236864	religion	no	no	no	no	no
+812728955149160448	religion	no	no	no	no	no
+812753499083640832	religion	no	no	no	no	no
+812754459923255297	religion	no	no	no	no	no
 812771411488022530	religion	yes	strong	strong	no	yes
-812806412598411265	religion	no	absent	absent	yes	no
-812993633066557440	religion	no	absent	absent	yes	no
-813029530042560512	religion	no	absent	absent	no	no
-813038936473956361	ethnic group	no	absent	absent	yes	no
-813049073158602752	religion	yes	absent	absent	no	yes
-813070887817740288	religion	no	absent	absent	no	no
-813076808803512320	Roma	no	absent	absent	no	no
-813096821555752960	Roma	no	absent	absent	no	no
-813274055256272896	religion	no	absent	weak	yes	yes
-813282919804502016	ethnic group	no	absent	absent	yes	no
-813337116428091392	religion	no	absent	absent	no	yes
-813441020843020288	religion	no	absent	absent	no	no
-813530130282901504	ethnic group	no	absent	absent	no	no
-813550459227172864	ethnic group	no	absent	absent	no	yes
-813640361948094464	religion	yes	weak	absent	yes	no
-813646935072665600	Roma	no	absent	absent	no	no
-813726048634413056	religion	yes	absent	strong	no	yes
+812806412598411265	religion	no	no	no	yes	no
+812993633066557440	religion	no	no	no	yes	no
+813029530042560512	religion	no	no	no	no	no
+813038936473956361	ethnic group	no	no	no	yes	no
+813049073158602752	religion	yes	no	no	no	yes
+813070887817740288	religion	no	no	no	no	no
+813076808803512320	Roma	no	no	no	no	no
+813096821555752960	Roma	no	no	no	no	no
+813274055256272896	religion	no	no	weak	yes	yes
+813282919804502016	ethnic group	no	no	no	yes	no
+813337116428091392	religion	no	no	no	no	yes
+813441020843020288	religion	no	no	no	no	no
+813530130282901504	ethnic group	no	no	no	no	no
+813550459227172864	ethnic group	no	no	no	no	yes
+813640361948094464	religion	yes	weak	no	yes	no
+813646935072665600	Roma	no	no	no	no	no
+813726048634413056	religion	yes	no	strong	no	yes
 813731670729916418	religion	yes	weak	strong	no	yes
-813767990403600386	Roma	no	absent	absent	no	yes
-813862040695500800	religion	no	absent	absent	no	no
-814000610777464832	religion	no	absent	absent	no	no
+813767990403600386	Roma	no	no	no	no	yes
+813862040695500800	religion	no	no	no	no	no
+814000610777464832	religion	no	no	no	no	no
 8,14038E+17	Roma	yes	weak	weak	no	yes
-814078424486547456	religion	no	absent	absent	no	yes
-814089848059527168	Roma	no	absent	absent	no	yes
-814092077084635137	religion	no	weak	absent	no	no
-814105208775180288	ethnic group	no	absent	absent	no	no
-814114632222834688	Roma	no	absent	absent	no	no
-814120244784480257	ethnic group	no	absent	absent	no	no
-814120445398175744	religion	no	absent	absent	no	no
-814125418752184320	religion	no	absent	absent	no	no
-814141822578675712	ethnic group	yes	absent	weak	no	yes
-814187132185100288	religion	no	absent	absent	yes	no
+814078424486547456	religion	no	no	no	no	yes
+814089848059527168	Roma	no	no	no	no	yes
+814092077084635137	religion	no	weak	no	no	no
+814105208775180288	ethnic group	no	no	no	no	no
+814114632222834688	Roma	no	no	no	no	no
+814120244784480257	ethnic group	no	no	no	no	no
+814120445398175744	religion	no	no	no	no	no
+814125418752184320	religion	no	no	no	no	no
+814141822578675712	ethnic group	yes	no	weak	no	yes
+814187132185100288	religion	no	no	no	yes	no
 814187658087907332	religion	no	weak	weak	no	no
-814195302391566336	ethnic group	no	absent	absent	no	no
-814203082791862272	Roma	no	absent	absent	no	no
-814213056842571776	ethnic group	yes	absent	absent	no	yes
-814217574447796225	ethnic group	no	weak	absent	yes	no
-814221685452840961	ethnic group	no	absent	absent	no	yes
-814235391746260992	ethnic group	no	absent	absent	no	no
-814404269453381632	religion	no	absent	absent	no	no
-814410836383006721	Roma	no	absent	weak	yes	yes
-814417744368201728	Roma	no	absent	absent	no	yes
-814436574926610432	religion	no	absent	absent	no	no
-814463819242151936	religion	no	weak	absent	yes	no
-814489067119411200	religion	no	absent	absent	no	no
-814496732579041280	religion	no	absent	absent	no	no
-814498506509586436	religion	no	weak	absent	no	no
-814520869628289024	religion	no	absent	absent	no	no
+814195302391566336	ethnic group	no	no	no	no	no
+814203082791862272	Roma	no	no	no	no	no
+814213056842571776	ethnic group	yes	no	no	no	yes
+814217574447796225	ethnic group	no	weak	no	yes	no
+814221685452840961	ethnic group	no	no	no	no	yes
+814235391746260992	ethnic group	no	no	no	no	no
+814404269453381632	religion	no	no	no	no	no
+814410836383006721	Roma	no	no	weak	yes	yes
+814417744368201728	Roma	no	no	no	no	yes
+814436574926610432	religion	no	no	no	no	no
+814463819242151936	religion	no	weak	no	yes	no
+814489067119411200	religion	no	no	no	no	no
+814496732579041280	religion	no	no	no	no	no
+814498506509586436	religion	no	weak	no	no	no
+814520869628289024	religion	no	no	no	no	no
 814524903240011776	religion	yes	weak	strong	no	no
-814561077593784320	ethnic group	yes	weak	absent	no	yes
-814575047176228864	ethnic group	no	absent	absent	no	yes
-814750467213365248	religion	no	absent	absent	no	no
-814762537078128640	religion	no	weak	absent	yes	yes
-814835314975973376	religion	no	absent	absent	no	no
-814841819838214144	ethnic group	no	absent	absent	no	no
+814561077593784320	ethnic group	yes	weak	no	no	yes
+814575047176228864	ethnic group	no	no	no	no	yes
+814750467213365248	religion	no	no	no	no	no
+814762537078128640	religion	no	weak	no	yes	yes
+814835314975973376	religion	no	no	no	no	no
+814841819838214144	ethnic group	no	no	no	no	no
 814871936027258880	religion	yes	strong	strong	no	yes
-814877237552021506	religion	no	absent	absent	no	no
-814902026865938433	religion	no	absent	absent	no	no
-814911031805902848	religion	no	absent	absent	no	no
-814934651433287680	religion	no	absent	absent	no	no
-814986919654412288	religion	no	absent	absent	no	no
-814987312304099328	religion	no	absent	absent	no	no
-815073868629102592	religion	no	absent	absent	no	no
-815099885154435072	ethnic group	no	weak	absent	no	no
-815105299564654592	religion	yes	absent	absent	no	no
+814877237552021506	religion	no	no	no	no	no
+814902026865938433	religion	no	no	no	no	no
+814911031805902848	religion	no	no	no	no	no
+814934651433287680	religion	no	no	no	no	no
+814986919654412288	religion	no	no	no	no	no
+814987312304099328	religion	no	no	no	no	no
+815073868629102592	religion	no	no	no	no	no
+815099885154435072	ethnic group	no	weak	no	no	no
+815105299564654592	religion	yes	no	no	no	no
 815112299044372480	Roma	no	weak	weak	no	no
 815157966647230464	religion	yes	weak	strong	no	yes
-815169194987757568	ethnic group	no	absent	absent	no	no
-815170234202148865	religion	no	absent	absent	no	no
-815227838924259328	religion	no	absent	strong	no	yes
-815231564330180609	religion	no	absent	absent	no	no
-815281628490690560	religion	no	absent	absent	no	no
-815345601604886529	religion	yes	absent	absent	no	yes
-815362356792492032	religion	no	absent	weak	no	yes
-815363812090056704	religion	no	weak	absent	no	no
-815473487909363712	religion	no	weak	absent	no	no
-815506238314258432	religion	no	absent	absent	no	no
+815169194987757568	ethnic group	no	no	no	no	no
+815170234202148865	religion	no	no	no	no	no
+815227838924259328	religion	no	no	strong	no	yes
+815231564330180609	religion	no	no	no	no	no
+815281628490690560	religion	no	no	no	no	no
+815345601604886529	religion	yes	no	no	no	yes
+815362356792492032	religion	no	no	weak	no	yes
+815363812090056704	religion	no	weak	no	no	no
+815473487909363712	religion	no	weak	no	no	no
+815506238314258432	religion	no	no	no	no	no
 815525161378213888	religion	no	weak	weak	no	yes
-815539345562173440	ethnic group	no	absent	absent	no	no
+815539345562173440	ethnic group	no	no	no	no	no
 815541956856217600	religion	yes	strong	weak	no	yes
-815543564612628480	religion	no	absent	absent	no	no
-815554209399631872	religion	no	absent	absent	no	no
-815558151521058816	ethnic group	no	absent	absent	no	no
-815591185809047552	religion	no	absent	absent	no	no
-815634803039096834	religion	no	absent	absent	no	no
-815636441221001216	religion	no	absent	absent	no	yes
-815833978691260416	religion	no	absent	absent	no	no
-815933774399733760	religion	no	absent	absent	no	no
-815953123797700608	Roma	no	absent	absent	no	no
-815983264053727233	religion	no	absent	absent	no	no
+815543564612628480	religion	no	no	no	no	no
+815554209399631872	religion	no	no	no	no	no
+815558151521058816	ethnic group	no	no	no	no	no
+815591185809047552	religion	no	no	no	no	no
+815634803039096834	religion	no	no	no	no	no
+815636441221001216	religion	no	no	no	no	yes
+815833978691260416	religion	no	no	no	no	no
+815933774399733760	religion	no	no	no	no	no
+815953123797700608	Roma	no	no	no	no	no
+815983264053727233	religion	no	no	no	no	no
 815993261227732992	religion	no	weak	strong	no	yes
-816003077694226432	ethnic group	no	absent	absent	no	no
-816118899800440832	ethnic group	no	absent	absent	no	no
-816175245094686720	religion	no	weak	absent	no	yes
+816003077694226432	ethnic group	no	no	no	no	no
+816118899800440832	ethnic group	no	no	no	no	no
+816175245094686720	religion	no	weak	no	no	yes
 816215002738782213	Roma	yes	strong	strong	no	yes
 816217760187486209	religion	yes	weak	strong	no	yes
-816251525949521920	religion	no	absent	absent	no	no
-816290887584120833	ethnic group	no	absent	absent	no	no
-816294977487695872	Roma	no	absent	absent	no	yes
-816314603953065986	religion	no	absent	absent	no	no
-816337571383013376	ethnic group	no	absent	absent	no	no
-816357763668443137	religion	no	absent	absent	no	no
+816251525949521920	religion	no	no	no	no	no
+816290887584120833	ethnic group	no	no	no	no	no
+816294977487695872	Roma	no	no	no	no	yes
+816314603953065986	religion	no	no	no	no	no
+816337571383013376	ethnic group	no	no	no	no	no
+816357763668443137	religion	no	no	no	no	no
 816368276951416834	ethnic group	no	weak	weak	no	yes
-816401211305889792	religion	no	absent	absent	no	no
-816404546373218305	religion	no	absent	absent	no	no
+816401211305889792	religion	no	no	no	no	no
+816404546373218305	religion	no	no	no	no	no
 816547601097129984	ethnic group	yes	weak	strong	no	yes
-816603343565033472	religion	no	absent	absent	no	no
-816698437143908352	ethnic group	no	absent	absent	no	no
+816603343565033472	religion	no	no	no	no	no
+816698437143908352	ethnic group	no	no	no	no	no
 816702932347457536	religion	yes	weak	weak	yes	yes
-816730057884520451	religion	no	absent	absent	no	no
-816736561836474368	religion	no	absent	absent	no	no
+816730057884520451	religion	no	no	no	no	no
+816736561836474368	religion	no	no	no	no	no
 816740606462558208	Roma	yes	weak	strong	no	yes
-816798867513548800	religion	no	absent	absent	no	no
-816878737799188480	ethnic group	no	absent	absent	no	no
-816944127489245184	ethnic group	no	absent	absent	no	no
-816962519612923904	ethnic group	no	absent	weak	yes	no
-816971489492824064	religion	no	absent	absent	no	no
-816986340378218496	ethnic group	no	absent	absent	no	yes
-816990953131175936	religion	no	weak	absent	no	yes
-816994460160626688	religion	no	absent	weak	yes	no
-817003315787661313	religion	yes	absent	strong	no	yes
-817030911632011264	religion	no	absent	absent	no	no
-817053433199034368	ethnic group	no	absent	absent	no	no
-817058967285272576	ethnic group	no	absent	absent	no	no
-817069426042400768	ethnic group	no	absent	absent	no	no
-817088122836099072	ethnic group	no	absent	absent	no	no
-817089993453797376	religion	no	absent	absent	no	no
-817107006620319745	ethnic group	no	absent	absent	no	no
-817140230285381632	ethnic group	no	absent	absent	no	yes
-817279196833710080	religion	no	absent	absent	no	no
-817323179467214849	Roma	no	absent	absent	no	no
+816798867513548800	religion	no	no	no	no	no
+816878737799188480	ethnic group	no	no	no	no	no
+816944127489245184	ethnic group	no	no	no	no	no
+816962519612923904	ethnic group	no	no	weak	yes	no
+816971489492824064	religion	no	no	no	no	no
+816986340378218496	ethnic group	no	no	no	no	yes
+816990953131175936	religion	no	weak	no	no	yes
+816994460160626688	religion	no	no	weak	yes	no
+817003315787661313	religion	yes	no	strong	no	yes
+817030911632011264	religion	no	no	no	no	no
+817053433199034368	ethnic group	no	no	no	no	no
+817058967285272576	ethnic group	no	no	no	no	no
+817069426042400768	ethnic group	no	no	no	no	no
+817088122836099072	ethnic group	no	no	no	no	no
+817089993453797376	religion	no	no	no	no	no
+817107006620319745	ethnic group	no	no	no	no	no
+817140230285381632	ethnic group	no	no	no	no	yes
+817279196833710080	religion	no	no	no	no	no
+817323179467214849	Roma	no	no	no	no	no
 817327053569671169	ethnic group	yes	weak	weak	no	yes
 817350334288891906	religion	yes	weak	weak	no	yes
 817388299811700736	religion	yes	weak	weak	yes	yes
-817394754598109184	religion	yes	strong	absent	no	no
-817399137264078851	ethnic group	no	absent	absent	no	no
-817452003680993280	religion	no	absent	absent	no	no
-817626668848336897	religion	no	absent	absent	no	no
-817668549850333184	ethnic group	no	absent	absent	yes	yes
-817729103793156098	ethnic group	no	absent	absent	no	no
-817747285836791809	religion	no	absent	absent	no	no
-817787262515707904	religion	no	absent	absent	no	no
-817793324237156352	ethnic group	yes	absent	absent	no	yes
-817797944711802880	ethnic group	no	absent	absent	no	no
-817947112512098304	religion	no	absent	absent	no	no
-818036788858093568	ethnic group	no	absent	absent	no	no
+817394754598109184	religion	yes	strong	no	no	no
+817399137264078851	ethnic group	no	no	no	no	no
+817452003680993280	religion	no	no	no	no	no
+817626668848336897	religion	no	no	no	no	no
+817668549850333184	ethnic group	no	no	no	yes	yes
+817729103793156098	ethnic group	no	no	no	no	no
+817747285836791809	religion	no	no	no	no	no
+817787262515707904	religion	no	no	no	no	no
+817793324237156352	ethnic group	yes	no	no	no	yes
+817797944711802880	ethnic group	no	no	no	no	no
+817947112512098304	religion	no	no	no	no	no
+818036788858093568	ethnic group	no	no	no	no	no
 818093016783130624	religion	yes	weak	weak	no	yes
-818173288576847874	religion	no	absent	absent	no	no
-818183046084050944	religion	no	absent	absent	no	no
-818201619196182535	Roma	yes	weak	absent	no	no
+818173288576847874	religion	no	no	no	no	no
+818183046084050944	religion	no	no	no	no	no
+818201619196182535	Roma	yes	weak	no	no	no
 818251007088005120	ethnic group	yes	weak	weak	no	yes
-818392410426343425	ethnic group	no	absent	absent	no	no
-818401941667586048	Roma	no	absent	absent	no	no
-818428416475197440	Roma	no	absent	absent	no	no
-818450080760025088	ethnic group	no	absent	absent	no	no
-818581234968363011	ethnic group	no	absent	absent	no	no
-818582068229787648	religion	no	absent	absent	no	no
-818636882410029056	religion	no	absent	absent	no	no
-818705481678155777	religion	no	absent	absent	no	no
+818392410426343425	ethnic group	no	no	no	no	no
+818401941667586048	Roma	no	no	no	no	no
+818428416475197440	Roma	no	no	no	no	no
+818450080760025088	ethnic group	no	no	no	no	no
+818581234968363011	ethnic group	no	no	no	no	no
+818582068229787648	religion	no	no	no	no	no
+818636882410029056	religion	no	no	no	no	no
+818705481678155777	religion	no	no	no	no	no
 818741305232723968	ethnic group	yes	strong	strong	no	yes
-818749585493467137	ethnic group	no	absent	absent	no	no
-818772703591170048	religion	no	absent	absent	no	no
-819866569346060289	ethnic group	no	absent	absent	no	no
-819876194896187392	religion	no	weak	absent	no	no
-819915215584247808	ethnic group	no	absent	absent	no	yes
-819927123813142529	ethnic group	no	absent	absent	no	no
-819950504394575872	Roma	no	absent	absent	no	no
-820099872841932800	Roma	no	absent	absent	no	no
-820294742890180609	Roma	no	absent	absent	no	no
-820319034671595520	religion	yes	weak	absent	no	no
-820538520905404416	ethnic group	no	absent	absent	no	no
-820540723095289856	ethnic group	no	absent	absent	no	no
-820567011059179520	ethnic group	no	absent	absent	no	no
-820605345743642628	ethnic group	no	absent	absent	no	no
-820608690688557058	religion	no	absent	absent	no	no
-820646655074537472	religion	no	absent	absent	no	no
-820654836718833666	ethnic group	no	absent	absent	no	no
-820680460166643712	ethnic group	no	absent	absent	no	no
-820723416995102725	ethnic group	no	absent	absent	no	no
-820769907558195202	religion	no	absent	absent	no	no
-820966286255648768	ethnic group	no	absent	absent	no	no
-821049339816607745	ethnic group	no	absent	absent	yes	no
-821074816690221056	religion	no	absent	absent	no	no
-821218067611062272	Roma	no	absent	absent	no	no
-821233384559169536	religion	no	absent	absent	no	no
-821258839634874368	ethnic group	no	absent	absent	no	no
-821297841847107584	religion	no	absent	absent	no	no
-821398066355994624	ethnic group	yes	weak	absent	yes	yes
-821404667741618177	ethnic group	no	absent	absent	no	no
-821411039455703040	ethnic group	no	absent	absent	no	no
-821492239830548480	ethnic group	no	absent	absent	no	no
-821499839448018944	ethnic group	no	absent	absent	no	no
+818749585493467137	ethnic group	no	no	no	no	no
+818772703591170048	religion	no	no	no	no	no
+819866569346060289	ethnic group	no	no	no	no	no
+819876194896187392	religion	no	weak	no	no	no
+819915215584247808	ethnic group	no	no	no	no	yes
+819927123813142529	ethnic group	no	no	no	no	no
+819950504394575872	Roma	no	no	no	no	no
+820099872841932800	Roma	no	no	no	no	no
+820294742890180609	Roma	no	no	no	no	no
+820319034671595520	religion	yes	weak	no	no	no
+820538520905404416	ethnic group	no	no	no	no	no
+820540723095289856	ethnic group	no	no	no	no	no
+820567011059179520	ethnic group	no	no	no	no	no
+820605345743642628	ethnic group	no	no	no	no	no
+820608690688557058	religion	no	no	no	no	no
+820646655074537472	religion	no	no	no	no	no
+820654836718833666	ethnic group	no	no	no	no	no
+820680460166643712	ethnic group	no	no	no	no	no
+820723416995102725	ethnic group	no	no	no	no	no
+820769907558195202	religion	no	no	no	no	no
+820966286255648768	ethnic group	no	no	no	no	no
+821049339816607745	ethnic group	no	no	no	yes	no
+821074816690221056	religion	no	no	no	no	no
+821218067611062272	Roma	no	no	no	no	no
+821233384559169536	religion	no	no	no	no	no
+821258839634874368	ethnic group	no	no	no	no	no
+821297841847107584	religion	no	no	no	no	no
+821398066355994624	ethnic group	yes	weak	no	yes	yes
+821404667741618177	ethnic group	no	no	no	no	no
+821411039455703040	ethnic group	no	no	no	no	no
+821492239830548480	ethnic group	no	no	no	no	no
+821499839448018944	ethnic group	no	no	no	no	no
 821650545186377730	ethnic group	yes	weak	weak	yes	yes
-821659966062952449	ethnic group	no	absent	absent	no	no
-821661503606689793	Roma	no	absent	absent	no	no
-821668782477295620	ethnic group	no	absent	absent	no	no
-821676200212987904	Roma	no	absent	absent	no	yes
-821680691108790272	ethnic group	no	absent	absent	yes	no
-821693679643394049	ethnic group	no	absent	absent	no	no
+821659966062952449	ethnic group	no	no	no	no	no
+821661503606689793	Roma	no	no	no	no	no
+821668782477295620	ethnic group	no	no	no	no	no
+821676200212987904	Roma	no	no	no	no	yes
+821680691108790272	ethnic group	no	no	no	yes	no
+821693679643394049	ethnic group	no	no	no	no	no
 821719461409517568	Roma	yes	weak	strong	no	yes
-821722115527294976	ethnic group	no	absent	absent	yes	no
-821724337803759616	ethnic group	no	absent	absent	no	no
-821758511008940032	ethnic group	no	absent	absent	no	no
-821811231241760768	Roma	no	absent	absent	no	no
-821817779145900033	Roma	no	absent	absent	no	no
-821903823509868545	Roma	no	absent	absent	no	yes
-821981196045271040	ethnic group	no	absent	absent	no	no
-821986810406588416	ethnic group	no	absent	absent	no	no
-822056743844724736	ethnic group	no	absent	absent	no	no
+821722115527294976	ethnic group	no	no	no	yes	no
+821724337803759616	ethnic group	no	no	no	no	no
+821758511008940032	ethnic group	no	no	no	no	no
+821811231241760768	Roma	no	no	no	no	no
+821817779145900033	Roma	no	no	no	no	no
+821903823509868545	Roma	no	no	no	no	yes
+821981196045271040	ethnic group	no	no	no	no	no
+821986810406588416	ethnic group	no	no	no	no	no
+822056743844724736	ethnic group	no	no	no	no	no
 822106381377503232	Roma	yes	weak	weak	yes	yes
-822112377764253698	Roma	no	absent	absent	no	no
-822114438920683520	ethnic group	no	absent	absent	no	no
+822112377764253698	Roma	no	no	no	no	no
+822114438920683520	ethnic group	no	no	no	no	no
 822158606632124417	Roma	yes	weak	strong	no	yes
-822181372185825280	ethnic group	no	absent	absent	no	no
-822205961741987840	ethnic group	no	absent	weak	no	no
-822452849216983040	religion	no	absent	absent	no	no
-822454921463267328	Roma	no	absent	absent	no	yes
-822511747412148225	religion	no	absent	absent	no	no
-822545055588253698	religion	no	absent	absent	no	no
-822554991688826880	Roma	no	weak	absent	yes	yes
-822770850692788224	religion	yes	strong	absent	no	no
-822783387350036481	religion	no	absent	absent	no	no
-822807606737727488	Roma	no	absent	absent	no	yes
+822181372185825280	ethnic group	no	no	no	no	no
+822205961741987840	ethnic group	no	no	weak	no	no
+822452849216983040	religion	no	no	no	no	no
+822454921463267328	Roma	no	no	no	no	yes
+822511747412148225	religion	no	no	no	no	no
+822545055588253698	religion	no	no	no	no	no
+822554991688826880	Roma	no	weak	no	yes	yes
+822770850692788224	religion	yes	strong	no	no	no
+822783387350036481	religion	no	no	no	no	no
+822807606737727488	Roma	no	no	no	no	yes
 822808506000703489	religion	no	strong	strong	no	no
-822884951834161153	religion	no	absent	absent	no	no
-823090273811107841	ethnic group	no	absent	absent	no	no
-823091868175134721	religion	no	absent	strong	no	no
-823123543638548480	ethnic group	no	absent	absent	no	no
+822884951834161153	religion	no	no	no	no	no
+823090273811107841	ethnic group	no	no	no	no	no
+823091868175134721	religion	no	no	strong	no	no
+823123543638548480	ethnic group	no	no	no	no	no
 823152640259407872	religion	yes	weak	strong	no	yes
-823453125684015108	ethnic group	no	absent	absent	no	no
-823509088424361984	ethnic group	no	absent	absent	yes	no
-823529670679425024	Roma	yes	absent	absent	no	no
-823548695438381056	Roma	no	absent	absent	no	no
-823554526884007936	Roma	no	absent	absent	no	no
-823567998791389184	Roma	no	absent	absent	no	no
-823572978650796037	Roma	no	absent	absent	no	no
-823577456158408704	Roma	no	absent	absent	no	no
-823620495220338689	religion	no	absent	absent	no	no
-823625544281493507	religion	no	absent	absent	no	no
-823645706850340864	religion	no	absent	absent	yes	no
-823665970673643520	ethnic group	no	absent	absent	no	no
-823666681012690944	ethnic group	no	absent	absent	no	no
-823768255445794816	religion	no	absent	absent	no	no
-823786745946865664	religion	no	absent	weak	no	yes
-823804639040638977	Roma	no	absent	absent	no	no
-823822239091007488	ethnic group	no	absent	absent	no	yes
-823837106854367232	ethnic group	no	absent	absent	no	no
-823860319701307394	Roma	no	absent	absent	no	yes
-823888131812421635	ethnic group	no	absent	absent	no	no
-823924385534930944	ethnic group	no	absent	weak	no	yes
-823936424097574914	ethnic group	yes	absent	strong	no	yes
-823987097740701697	ethnic group	no	absent	absent	no	no
-823997131824529409	ethnic group	yes	absent	weak	no	yes
+823453125684015108	ethnic group	no	no	no	no	no
+823509088424361984	ethnic group	no	no	no	yes	no
+823529670679425024	Roma	yes	no	no	no	no
+823548695438381056	Roma	no	no	no	no	no
+823554526884007936	Roma	no	no	no	no	no
+823567998791389184	Roma	no	no	no	no	no
+823572978650796037	Roma	no	no	no	no	no
+823577456158408704	Roma	no	no	no	no	no
+823620495220338689	religion	no	no	no	no	no
+823625544281493507	religion	no	no	no	no	no
+823645706850340864	religion	no	no	no	yes	no
+823665970673643520	ethnic group	no	no	no	no	no
+823666681012690944	ethnic group	no	no	no	no	no
+823768255445794816	religion	no	no	no	no	no
+823786745946865664	religion	no	no	weak	no	yes
+823804639040638977	Roma	no	no	no	no	no
+823822239091007488	ethnic group	no	no	no	no	yes
+823837106854367232	ethnic group	no	no	no	no	no
+823860319701307394	Roma	no	no	no	no	yes
+823888131812421635	ethnic group	no	no	no	no	no
+823924385534930944	ethnic group	no	no	weak	no	yes
+823936424097574914	ethnic group	yes	no	strong	no	yes
+823987097740701697	ethnic group	no	no	no	no	no
+823997131824529409	ethnic group	yes	no	weak	no	yes
 824011122588131334	ethnic group	no	weak	weak	yes	yes
-824030924098572289	Roma	no	absent	absent	no	yes
-824031486768771072	Roma	yes	absent	weak	yes	yes
-824168449098321921	ethnic group	no	absent	weak	no	yes
-824177207388073984	Roma	yes	strong	absent	no	yes
-824246275222671360	ethnic group	yes	weak	absent	no	no
-824253232818036737	Roma	no	absent	absent	no	no
-824272005545525248	Roma	no	absent	absent	no	no
-824347591907414016	ethnic group	no	absent	absent	no	yes
-824405847103143940	ethnic group	no	absent	absent	no	no
-824576404524191745	Roma	no	absent	absent	no	no
-824581350158114816	ethnic group	no	absent	absent	no	no
-824605429930065920	Roma	no	weak	absent	no	no
+824030924098572289	Roma	no	no	no	no	yes
+824031486768771072	Roma	yes	no	weak	yes	yes
+824168449098321921	ethnic group	no	no	weak	no	yes
+824177207388073984	Roma	yes	strong	no	no	yes
+824246275222671360	ethnic group	yes	weak	no	no	no
+824253232818036737	Roma	no	no	no	no	no
+824272005545525248	Roma	no	no	no	no	no
+824347591907414016	ethnic group	no	no	no	no	yes
+824405847103143940	ethnic group	no	no	no	no	no
+824576404524191745	Roma	no	no	no	no	no
+824581350158114816	ethnic group	no	no	no	no	no
+824605429930065920	Roma	no	weak	no	no	no
 824705058734477313	Roma	no	weak	strong	no	yes
 824708898569515009	Roma	yes	weak	strong	no	yes
-824716798226534400	Roma	no	absent	weak	no	no
-824723367571914754	ethnic group	no	absent	absent	no	no
-824724034369814528	Roma	no	absent	absent	no	yes
-824750536511651840	Roma	no	absent	absent	no	no
-824936027391459328	Roma	no	absent	absent	no	no
-824938344404676609	religion	yes	strong	absent	no	yes
-824963817159479300	Roma	no	absent	absent	no	yes
-825000051219038208	Roma	no	absent	weak	no	yes
-825003562379919361	Roma	no	absent	absent	no	yes
-825012267280326657	ethnic group	no	absent	absent	no	no
-825050343679590400	Roma	no	absent	absent	no	yes
-825053601693315074	ethnic group	no	absent	absent	no	no
+824716798226534400	Roma	no	no	weak	no	no
+824723367571914754	ethnic group	no	no	no	no	no
+824724034369814528	Roma	no	no	no	no	yes
+824750536511651840	Roma	no	no	no	no	no
+824936027391459328	Roma	no	no	no	no	no
+824938344404676609	religion	yes	strong	no	no	yes
+824963817159479300	Roma	no	no	no	no	yes
+825000051219038208	Roma	no	no	weak	no	yes
+825003562379919361	Roma	no	no	no	no	yes
+825012267280326657	ethnic group	no	no	no	no	no
+825050343679590400	Roma	no	no	no	no	yes
+825053601693315074	ethnic group	no	no	no	no	no
 825094933698768897	religion	no	weak	weak	no	yes
-825276846292029441	Roma	no	absent	absent	no	no
-825345478309076992	Roma	no	absent	absent	no	yes
-825375791986966528	Roma	no	absent	absent	no	no
+825276846292029441	Roma	no	no	no	no	no
+825345478309076992	Roma	no	no	no	no	yes
+825375791986966528	Roma	no	no	no	no	no
 825389015721459712	religion	yes	weak	strong	no	yes
-825448468101611520	religion	no	absent	absent	no	no
+825448468101611520	religion	no	no	no	no	no
 825475603533090821	religion	no	weak	weak	no	yes
-825608051721981952	religion	yes	weak	absent	no	yes
-825623844190822400	ethnic group	no	absent	absent	no	no
-825654156576821248	religion	no	absent	absent	no	yes
+825608051721981952	religion	yes	weak	no	no	yes
+825623844190822400	ethnic group	no	no	no	no	no
+825654156576821248	religion	no	no	no	no	yes
 825677022412341248	religion	yes	weak	strong	no	yes
-825719460971450369	religion	no	absent	absent	no	no
-825744200083836931	Roma	no	absent	absent	no	no
-825769786617520128	religion	no	absent	absent	no	no
-825782474789814274	religion	no	absent	absent	yes	no
-825818041250410498	ethnic group	no	absent	absent	yes	no
-825828513462702080	ethnic group	no	absent	absent	no	no
-825928527677648896	Roma	no	weak	absent	no	no
-825979522344423424	religion	yes	absent	weak	no	yes
-826001759399194626	ethnic group	no	absent	absent	no	no
-826004637564141572	religion	no	absent	absent	yes	no
-826010591705853952	religion	no	absent	absent	yes	no
+825719460971450369	religion	no	no	no	no	no
+825744200083836931	Roma	no	no	no	no	no
+825769786617520128	religion	no	no	no	no	no
+825782474789814274	religion	no	no	no	yes	no
+825818041250410498	ethnic group	no	no	no	yes	no
+825828513462702080	ethnic group	no	no	no	no	no
+825928527677648896	Roma	no	weak	no	no	no
+825979522344423424	religion	yes	no	weak	no	yes
+826001759399194626	ethnic group	no	no	no	no	no
+826004637564141572	religion	no	no	no	yes	no
+826010591705853952	religion	no	no	no	yes	no
 826021877877526528	religion	yes	weak	weak	no	yes
-826031930474954753	ethnic group	no	weak	absent	yes	no
-826037640126484481	religion	no	absent	absent	no	no
-826047546590105600	ethnic group	no	absent	weak	no	yes
-826066298450886658	ethnic group	no	absent	absent	no	no
-826087009726894080	religion	no	absent	absent	yes	no
-826092113565720576	religion	no	absent	absent	no	no
-826147610050310146	religion	no	absent	absent	no	yes
-826149017801330688	religion	no	absent	absent	yes	no
+826031930474954753	ethnic group	no	weak	no	yes	no
+826037640126484481	religion	no	no	no	no	no
+826047546590105600	ethnic group	no	no	weak	no	yes
+826066298450886658	ethnic group	no	no	no	no	no
+826087009726894080	religion	no	no	no	yes	no
+826092113565720576	religion	no	no	no	no	no
+826147610050310146	religion	no	no	no	no	yes
+826149017801330688	religion	no	no	no	yes	no
 826151118229102594	religion	yes	weak	strong	no	yes
-826186745813356544	religion	no	absent	absent	no	no
-826191559460794368	religion	no	absent	absent	no	no
-826201951473897473	Roma	no	absent	absent	no	no
-826202676866215936	Roma	yes	weak	absent	no	yes
+826186745813356544	religion	no	no	no	no	no
+826191559460794368	religion	no	no	no	no	no
+826201951473897473	Roma	no	no	no	no	no
+826202676866215936	Roma	yes	weak	no	no	yes
 826205349736742912	Roma	yes	weak	weak	no	yes
-826341046116294656	ethnic group	no	absent	absent	no	yes
-826351856242851841	ethnic group	no	absent	absent	no	no
-826355966539100160	ethnic group	no	absent	absent	yes	no
-826378364827099136	religion	no	absent	absent	yes	no
-826379886789005313	Roma	no	absent	absent	yes	no
+826341046116294656	ethnic group	no	no	no	no	yes
+826351856242851841	ethnic group	no	no	no	no	no
+826355966539100160	ethnic group	no	no	no	yes	no
+826378364827099136	religion	no	no	no	yes	no
+826379886789005313	Roma	no	no	no	yes	no
 826380632376881152	Roma	yes	strong	strong	no	yes
-826385428664221697	religion	no	absent	weak	no	yes
-826388792881864704	religion	no	absent	weak	yes	no
-826428674463428608	ethnic group	no	absent	weak	yes	yes
-826442046722408449	religion	no	absent	absent	yes	no
-826462903167569920	religion	yes	strong	absent	no	yes
-826483445870186496	ethnic group	no	absent	absent	no	no
-826492371886080002	Roma	no	weak	absent	no	yes
+826385428664221697	religion	no	no	weak	no	yes
+826388792881864704	religion	no	no	weak	yes	no
+826428674463428608	ethnic group	no	no	weak	yes	yes
+826442046722408449	religion	no	no	no	yes	no
+826462903167569920	religion	yes	strong	no	no	yes
+826483445870186496	ethnic group	no	no	no	no	no
+826492371886080002	Roma	no	weak	no	no	yes
 826524658765819904	religion	yes	strong	weak	no	yes
 826528469215506432	Roma	yes	weak	weak	no	yes
-826528664372264960	religion	no	absent	absent	no	no
-826705537207263232	ethnic group	no	absent	weak	no	yes
-826746060353712130	Roma	no	absent	absent	no	yes
-826751709108121600	Roma	no	absent	absent	yes	no
-826760503213056001	Roma	no	absent	absent	no	no
-826778968741335040	religion	no	absent	absent	no	no
-826792490481098752	religion	no	absent	absent	no	no
-826798723380441088	Roma	no	absent	weak	yes	yes
+826528664372264960	religion	no	no	no	no	no
+826705537207263232	ethnic group	no	no	weak	no	yes
+826746060353712130	Roma	no	no	no	no	yes
+826751709108121600	Roma	no	no	no	yes	no
+826760503213056001	Roma	no	no	no	no	no
+826778968741335040	religion	no	no	no	no	no
+826792490481098752	religion	no	no	no	no	no
+826798723380441088	Roma	no	no	weak	yes	yes
 827063443291242496	religion	yes	weak	weak	no	yes
-827075480872419328	ethnic group	no	absent	absent	no	no
-827086365267468288	ethnic group	no	absent	absent	no	yes
-827103489620901889	ethnic group	no	absent	absent	no	no
-827109474942849026	ethnic group	no	absent	absent	no	no
-827112638563942400	ethnic group	no	absent	absent	no	no
-827203945529483265	Roma	no	absent	absent	yes	yes
+827075480872419328	ethnic group	no	no	no	no	no
+827086365267468288	ethnic group	no	no	no	no	yes
+827103489620901889	ethnic group	no	no	no	no	no
+827109474942849026	ethnic group	no	no	no	no	no
+827112638563942400	ethnic group	no	no	no	no	no
+827203945529483265	Roma	no	no	no	yes	yes
 827245018616360960	Roma	no	strong	strong	no	yes
-827390046923747328	ethnic group	no	absent	absent	no	no
-827415141641658368	ethnic group	no	absent	absent	no	no
-827423374561386496	ethnic group	no	absent	absent	no	yes
-827452085813772288	ethnic group	no	absent	absent	yes	no
-827456488994123776	religion	no	absent	absent	yes	no
-827471735398109184	ethnic group	no	absent	absent	no	no
-827477597093240836	ethnic group	no	absent	absent	no	no
-827532989370351616	ethnic group	no	absent	absent	yes	no
-827551279652089856	ethnic group	no	absent	absent	no	no
-827578659980640257	ethnic group	no	absent	absent	yes	no
-827614048992784384	ethnic group	no	absent	absent	no	no
-827783036905336832	religion	no	weak	absent	yes	yes
-827816983630581760	Roma	no	absent	absent	no	yes
-827821135131791364	ethnic group	no	absent	absent	no	no
-827831506148155392	religion	no	absent	absent	no	no
-827852469573132288	ethnic group	no	absent	absent	no	no
-827857358659403777	Roma	no	absent	absent	no	no
-827929282567606274	Roma	no	absent	absent	no	no
-827935691682222080	Roma	no	absent	weak	no	yes
-827940972201914368	religion	no	absent	absent	no	no
-828157393532047360	Roma	no	absent	absent	no	no
-828289234909937665	religion	no	absent	absent	no	no
-828311552780619776	ethnic group	no	absent	absent	no	no
+827390046923747328	ethnic group	no	no	no	no	no
+827415141641658368	ethnic group	no	no	no	no	no
+827423374561386496	ethnic group	no	no	no	no	yes
+827452085813772288	ethnic group	no	no	no	yes	no
+827456488994123776	religion	no	no	no	yes	no
+827471735398109184	ethnic group	no	no	no	no	no
+827477597093240836	ethnic group	no	no	no	no	no
+827532989370351616	ethnic group	no	no	no	yes	no
+827551279652089856	ethnic group	no	no	no	no	no
+827578659980640257	ethnic group	no	no	no	yes	no
+827614048992784384	ethnic group	no	no	no	no	no
+827783036905336832	religion	no	weak	no	yes	yes
+827816983630581760	Roma	no	no	no	no	yes
+827821135131791364	ethnic group	no	no	no	no	no
+827831506148155392	religion	no	no	no	no	no
+827852469573132288	ethnic group	no	no	no	no	no
+827857358659403777	Roma	no	no	no	no	no
+827929282567606274	Roma	no	no	no	no	no
+827935691682222080	Roma	no	no	weak	no	yes
+827940972201914368	religion	no	no	no	no	no
+828157393532047360	Roma	no	no	no	no	no
+828289234909937665	religion	no	no	no	no	no
+828311552780619776	ethnic group	no	no	no	no	no
 828318482848743424	ethnic group	no	weak	weak	yes	yes
-828346498794401792	religion	no	absent	absent	no	no
-828351834569981952	religion	no	absent	strong	yes	no
+828346498794401792	religion	no	no	no	no	no
+828351834569981952	religion	no	no	strong	yes	no
 828511741025906689	ethnic group	no	weak	weak	no	yes
-828572248369983488	ethnic group	yes	absent	absent	no	no
-828581895365619712	ethnic group	no	absent	absent	no	no
-828599437773701121	ethnic group	no	absent	absent	no	no
-828602427276394498	ethnic group	no	absent	absent	yes	no
-828680340743000065	Roma	no	absent	absent	no	no
-828798130200121344	Roma	no	absent	weak	no	yes
-828876122486165506	ethnic group	no	absent	absent	no	no
-828882911495602177	Roma	no	absent	absent	no	yes
-828918626723966980	ethnic group	no	absent	absent	no	no
-828996313085784065	religion	no	absent	absent	no	no
-829033486703017985	ethnic group	no	absent	absent	no	no
-829043789209690112	religion	no	absent	weak	no	yes
-829058061805481984	Roma	no	absent	absent	no	yes
-829099564015681537	ethnic group	no	absent	weak	yes	yes
+828572248369983488	ethnic group	yes	no	no	no	no
+828581895365619712	ethnic group	no	no	no	no	no
+828599437773701121	ethnic group	no	no	no	no	no
+828602427276394498	ethnic group	no	no	no	yes	no
+828680340743000065	Roma	no	no	no	no	no
+828798130200121344	Roma	no	no	weak	no	yes
+828876122486165506	ethnic group	no	no	no	no	no
+828882911495602177	Roma	no	no	no	no	yes
+828918626723966980	ethnic group	no	no	no	no	no
+828996313085784065	religion	no	no	no	no	no
+829033486703017985	ethnic group	no	no	no	no	no
+829043789209690112	religion	no	no	weak	no	yes
+829058061805481984	Roma	no	no	no	no	yes
+829099564015681537	ethnic group	no	no	weak	yes	yes
 829208956786638848	religion	yes	strong	weak	no	yes
-829232567366844416	religion	no	absent	absent	no	no
-829337595410792449	Roma	no	absent	absent	no	no
-829465942451159040	Roma	no	absent	absent	no	yes
-829520794216755202	religion	no	absent	absent	no	yes
-829567634815467522	ethnic group	no	absent	absent	no	no
-829578281695510528	religion	no	absent	absent	no	no
-829592440277450752	Roma	no	absent	absent	no	yes
+829232567366844416	religion	no	no	no	no	no
+829337595410792449	Roma	no	no	no	no	no
+829465942451159040	Roma	no	no	no	no	yes
+829520794216755202	religion	no	no	no	no	yes
+829567634815467522	ethnic group	no	no	no	no	no
+829578281695510528	religion	no	no	no	no	no
+829592440277450752	Roma	no	no	no	no	yes
 829620801649283072	religion	yes	strong	weak	no	yes
-829632444324274176	religion	yes	absent	strong	no	yes
-829672632408821760	Roma	no	absent	absent	no	no
-829697375723732992	Roma	no	absent	absent	no	no
-829736186373664768	Roma	no	absent	absent	no	no
-829748630366076929	ethnic group	yes	weak	absent	no	yes
+829632444324274176	religion	yes	no	strong	no	yes
+829672632408821760	Roma	no	no	no	no	no
+829697375723732992	Roma	no	no	no	no	no
+829736186373664768	Roma	no	no	no	no	no
+829748630366076929	ethnic group	yes	weak	no	no	yes
 829748735609552897	ethnic group	yes	weak	strong	no	yes
-829757762259263493	ethnic group	no	absent	absent	no	no
-829801083102978048	religion	no	absent	absent	yes	no
-829939724915769344	ethnic group	no	absent	absent	no	no
-829992414664339456	religion	no	absent	absent	no	no
-830001064627810304	ethnic group	no	absent	absent	no	no
-830005451211292673	ethnic group	no	absent	absent	yes	yes
-830019160033918976	religion	no	absent	absent	no	no
-830065695354449921	religion	no	absent	absent	no	yes
-830073484646744064	ethnic group	no	absent	absent	no	no
-830135933517303809	ethnic group	no	absent	absent	no	no
-830145321376284672	religion	no	absent	absent	no	no
-830306653014806528	religion	no	absent	absent	no	yes
-830331079865286657	ethnic group	no	absent	absent	no	no
+829757762259263493	ethnic group	no	no	no	no	no
+829801083102978048	religion	no	no	no	yes	no
+829939724915769344	ethnic group	no	no	no	no	no
+829992414664339456	religion	no	no	no	no	no
+830001064627810304	ethnic group	no	no	no	no	no
+830005451211292673	ethnic group	no	no	no	yes	yes
+830019160033918976	religion	no	no	no	no	no
+830065695354449921	religion	no	no	no	no	yes
+830073484646744064	ethnic group	no	no	no	no	no
+830135933517303809	ethnic group	no	no	no	no	no
+830145321376284672	religion	no	no	no	no	no
+830306653014806528	religion	no	no	no	no	yes
+830331079865286657	ethnic group	no	no	no	no	no
 830420447573442560	religion	yes	strong	strong	no	yes
-830430387847430145	religion	no	absent	absent	yes	no
-830448731694780419	religion	no	absent	absent	no	no
-830453076456792064	ethnic group	no	weak	absent	no	no
-830521941672992770	ethnic group	no	absent	absent	no	no
-830674652527620096	ethnic group	no	absent	absent	no	no
-830802194039443456	ethnic group	no	absent	absent	no	no
-830821079211970560	Roma	yes	strong	absent	no	no
+830430387847430145	religion	no	no	no	yes	no
+830448731694780419	religion	no	no	no	no	no
+830453076456792064	ethnic group	no	weak	no	no	no
+830521941672992770	ethnic group	no	no	no	no	no
+830674652527620096	ethnic group	no	no	no	no	no
+830802194039443456	ethnic group	no	no	no	no	no
+830821079211970560	Roma	yes	strong	no	no	no
 830878139861594113	ethnic group	yes	strong	strong	no	yes
-831020237759844352	religion	no	absent	absent	no	no
-831043706891358209	Roma	no	absent	weak	no	yes
-831114646815899648	Roma	no	absent	absent	no	yes
-831143593721085953	religion	no	absent	absent	no	no
-831149710786297856	religion	no	absent	absent	no	no
-831213133687570433	religion	no	absent	strong	no	yes
-831228479916142592	Roma	no	weak	absent	no	no
-831229654669357057	Roma	no	absent	absent	yes	no
+831020237759844352	religion	no	no	no	no	no
+831043706891358209	Roma	no	no	weak	no	yes
+831114646815899648	Roma	no	no	no	no	yes
+831143593721085953	religion	no	no	no	no	no
+831149710786297856	religion	no	no	no	no	no
+831213133687570433	religion	no	no	strong	no	yes
+831228479916142592	Roma	no	weak	no	no	no
+831229654669357057	Roma	no	no	no	yes	no
 831235321048215554	Roma	yes	weak	weak	no	yes
-831241690333712384	Roma	yes	absent	absent	no	yes
-831250814677172226	Roma	no	absent	absent	no	no
-831382315259555840	ethnic group	no	absent	absent	no	yes
-831430313607823360	religion	no	absent	strong	no	yes
+831241690333712384	Roma	yes	no	no	no	yes
+831250814677172226	Roma	no	no	no	no	no
+831382315259555840	ethnic group	no	no	no	no	yes
+831430313607823360	religion	no	no	strong	no	yes
 831439550878728194	ethnic group	yes	weak	strong	no	yes
-831444293067952128	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	yes	absent	weak	yes	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+831444293067952128	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	yes	no	weak	yes	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
 	ethnic group	no	weak	weak	no	yes
 	Roma	yes	weak	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	religion	yes	weak	weak	no	yes
-	ethnic group	no	absent	absent	yes	no
-	religion	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	yes
-	religion	yes	strong	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	strong	yes	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	weak	yes	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	strong	yes	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	weak	no	yes
-	Roma	yes	strong	absent	no	no
+	ethnic group	no	no	no	yes	no
+	religion	no	no	no	yes	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	yes	strong	no	no	yes
+	religion	yes	strong	no	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	strong	yes	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	weak	yes	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	strong	yes	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	weak	no	yes
+	Roma	yes	strong	no	no	no
 	Roma	yes	weak	weak	no	yes
-	religion	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	yes
-	Roma	yes	strong	absent	no	yes
-	Roma	yes	strong	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	religion	no	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	yes	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	religion	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	yes	yes
+	Roma	yes	strong	no	no	yes
+	Roma	yes	strong	no	no	no
+	ethnic group	no	no	no	no	yes
+	religion	no	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	religion	yes	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	yes	weak	weak	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	religion	no	absent	absent	no	yes
-	Roma	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	weak	absent	yes	yes
-	Roma	no	weak	absent	yes	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	religion	no	no	no	no	yes
+	Roma	no	no	no	yes	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	weak	no	yes	yes
+	Roma	no	weak	no	yes	no
 	Roma	yes	strong	strong	no	yes
 	Roma	no	strong	strong	no	no
 	Roma	yes	strong	strong	no	yes
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	strong	yes	no
-	Roma	yes	weak	absent	no	no
-	Roma	no	absent	absent	yes	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	strong	yes	no
+	Roma	yes	weak	no	no	no
+	Roma	no	no	no	yes	no
 	Roma	no	weak	weak	yes	no
 	Roma	yes	strong	weak	no	yes
-	Roma	yes	absent	weak	yes	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	strong	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	absent	strong	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	Roma	yes	no	weak	yes	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	strong	yes	no
+	Roma	no	no	no	no	no
+	Roma	yes	no	strong	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	yes	weak	strong	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	strong	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	strong	yes	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	strong	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	strong	yes	no
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	no
 	Roma	no	weak	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	strong	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	weak	yes	no
-	religion	no	weak	absent	no	no
-	Roma	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	strong	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	weak	yes	no
+	religion	no	weak	no	no	no
+	Roma	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	strong	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	weak	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	Roma	no	absent	weak	no	no
-	Roma	no	weak	absent	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	strong	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	weak	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	Roma	no	no	weak	no	no
+	Roma	no	weak	no	no	yes
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	yes	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
+	Roma	no	no	no	no	yes
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	yes	no
 	Roma	no	weak	weak	yes	yes
-	Roma	no	absent	weak	no	yes
-	religion	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	weak	absent	no	yes
+	Roma	no	no	weak	no	yes
+	religion	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	weak	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	weak	no	no	yes
 	religion	yes	strong	strong	no	yes
-	religion	no	absent	strong	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
+	religion	no	no	strong	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	weak	absent	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	weak	no	no	yes
 	religion	yes	weak	strong	yes	yes
-	religion	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	weak	no	yes
-	ethnic group	no	weak	absent	no	yes
-	Roma	no	absent	absent	yes	yes
-	Roma	no	absent	weak	no	no
-	ethnic group	no	absent	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
+	religion	no	no	no	yes	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	weak	no	yes
+	ethnic group	no	weak	no	no	yes
+	Roma	no	no	no	yes	yes
+	Roma	no	no	weak	no	no
+	ethnic group	no	no	weak	no	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	yes
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
 	Roma	no	weak	weak	yes	yes
-	Roma	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	weak	absent	no	yes
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	weak	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	yes	strong	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	Roma	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	weak	no	no	yes
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	weak	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	yes	strong	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
 	ethnic group	yes	strong	weak	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	yes	weak	weak	no	yes
-	Roma	no	absent	weak	no	yes
-	Roma	no	absent	absent	no	no
+	Roma	no	no	weak	no	yes
+	Roma	no	no	no	no	no
 	Roma	yes	strong	weak	no	yes
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	yes
-	Roma	yes	strong	absent	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	yes
+	Roma	yes	strong	no	no	no
 	Roma	yes	weak	strong	no	yes
-	Roma	no	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	yes	strong	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	Roma	no	absent	strong	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
+	Roma	no	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	yes	strong	no	no	no
+	ethnic group	no	no	no	no	yes
+	Roma	no	no	strong	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	yes	strong	no	no	yes
+	Roma	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	yes
 	ethnic group	yes	weak	strong	no	yes
-	religion	no	absent	weak	no	yes
+	religion	no	no	weak	no	yes
 	Roma	yes	strong	weak	no	yes
 	religion	yes	weak	strong	no	yes
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	religion	no	absent	weak	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	yes	absent	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	religion	no	no	weak	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	yes	no	strong	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	Roma	yes	weak	strong	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	Roma	yes	weak	strong	yes	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	strong	no	no	no
 	Roma	no	weak	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
 	Roma	no	weak	strong	no	yes
-	religion	no	absent	weak	no	no
-	Roma	no	absent	weak	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	religion	no	no	weak	no	no
+	Roma	no	no	weak	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	yes	weak	absent	yes	no
-	Roma	no	absent	weak	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	yes	weak	no	yes	no
+	Roma	no	no	weak	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	yes	weak	no	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	yes	strong	weak	no	yes
-	Roma	no	absent	absent	no	yes
+	Roma	no	no	no	no	yes
 	ethnic group	no	weak	weak	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	weak	no	yes
-	Roma	no	weak	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	yes	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	Roma	no	weak	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	no
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	absent	absent	no	yes
-	Roma	yes	absent	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	yes	strong	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	weak	no	no
-	religion	yes	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	yes	weak	absent	no	yes
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	weak	yes	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	strong	no	no
-	religion	yes	absent	absent	no	yes
-	religion	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	religion	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	weak	no	yes
+	Roma	no	weak	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	strong	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	yes	weak	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	Roma	no	weak	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	strong	no	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	yes	no	no	no	yes
+	Roma	yes	no	strong	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	yes	strong	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	weak	no	no
+	religion	yes	weak	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	yes	weak	no	no	yes
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	religion	no	no	weak	yes	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	strong	no	no
+	religion	yes	no	no	no	yes
+	religion	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	religion	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	yes	strong	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	yes	absent	absent	yes	yes
-	religion	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	yes	no	no	yes	yes
+	religion	no	no	no	no	no
 	ethnic group	yes	strong	strong	no	yes
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	weak	absent	no	yes
-	Roma	yes	strong	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	weak	no	no	yes
+	Roma	yes	strong	no	no	no
+	ethnic group	no	no	no	no	no
 	religion	no	strong	strong	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	yes	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	yes	strong	absent	no	yes
-	religion	no	absent	absent	yes	no
-	religion	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	yes	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	yes	strong	no	no	yes
+	religion	no	no	no	yes	no
+	religion	no	no	no	no	no
 	religion	no	weak	weak	no	yes
 	religion	yes	strong	strong	no	yes
-	religion	no	absent	absent	no	no
-	religion	yes	weak	absent	no	yes
-	religion	yes	absent	weak	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	yes	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
+	religion	no	no	no	no	no
+	religion	yes	weak	no	no	yes
+	religion	yes	no	weak	no	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	yes	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
 	Roma	yes	strong	strong	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
-	Roma	yes	strong	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	weak	absent	yes	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	yes
+	Roma	yes	strong	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	yes	weak	no	yes	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	no	no	no	no	no
 	religion	yes	strong	weak	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	weak	yes	no
-	ethnic group	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	yes	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	weak	yes	no
+	ethnic group	no	no	no	yes	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	yes	yes
 	Roma	yes	strong	strong	no	no
-	ethnic group	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	religion	yes	weak	absent	no	yes
-	religion	no	weak	absent	yes	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	yes	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	religion	yes	weak	no	no	yes
+	religion	no	weak	no	yes	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	yes	weak	no	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
 	Roma	no	weak	weak	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	yes
 	Roma	yes	strong	strong	yes	yes
-	Roma	yes	strong	absent	no	no
-	Roma	no	absent	absent	yes	no
-	religion	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	strong	no	no
-	Roma	no	absent	absent	no	no
+	Roma	yes	strong	no	no	no
+	Roma	no	no	no	yes	no
+	religion	no	no	no	yes	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	strong	no	no
+	Roma	no	no	no	no	no
 	ethnic group	yes	strong	weak	no	yes
-	ethnic group	no	weak	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	weak	yes	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	ethnic group	no	weak	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	religion	no	weak	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	religion	no	no	weak	yes	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	religion	no	weak	strong	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	yes	strong	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	yes	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	yes	strong	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	yes	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	yes
+	ethnic group	no	no	no	no	yes
 	religion	yes	weak	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	yes	weak	absent	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	yes	weak	absent	yes	yes
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	yes	weak	no	no	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	yes	weak	no	yes	yes
 	Roma	yes	strong	strong	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	weak	absent	no	yes
-	ethnic group	yes	weak	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	weak	absent	no	no
-	religion	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	weak	no	no	yes
+	ethnic group	yes	weak	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	weak	no	no	no
+	religion	no	no	no	no	no
 	Roma	no	weak	strong	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	weak	absent	yes	no
-	ethnic group	no	weak	absent	no	yes
-	religion	no	absent	weak	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	weak	no	yes	no
+	ethnic group	no	weak	no	no	yes
+	religion	no	no	weak	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	yes
 	religion	no	weak	weak	no	no
 	religion	yes	strong	strong	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	yes	strong	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	no
-	Roma	no	weak	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	yes	strong	absent	yes	no
-	religion	no	weak	absent	no	no
-	Roma	no	weak	absent	no	yes
-	Roma	yes	strong	absent	no	yes
-	Roma	yes	strong	absent	no	yes
-	Roma	no	absent	absent	no	no
-	Roma	yes	strong	absent	no	no
-	Roma	no	absent	absent	yes	yes
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	yes	weak	absent	yes	yes
-	religion	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	yes	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	strong	yes	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	Roma	yes	strong	absent	yes	no
-	religion	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	yes	strong	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	yes	strong	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	Roma	yes	strong	no	no	no
+	Roma	no	weak	no	no	no
+	Roma	no	no	no	no	no
+	religion	yes	strong	no	yes	no
+	religion	no	weak	no	no	no
+	Roma	no	weak	no	no	yes
+	Roma	yes	strong	no	no	yes
+	Roma	yes	strong	no	no	yes
+	Roma	no	no	no	no	no
+	Roma	yes	strong	no	no	no
+	Roma	no	no	no	yes	yes
+	Roma	no	no	no	no	yes
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	yes	weak	no	yes	yes
+	religion	no	no	no	yes	no
+	ethnic group	no	no	no	yes	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	strong	yes	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	Roma	yes	strong	no	yes	no
+	religion	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	Roma	no	weak	absent	yes	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	yes
+	Roma	no	weak	no	yes	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	yes
 	religion	yes	strong	weak	yes	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	religion	no	weak	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
+	religion	no	weak	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	religion	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	Roma	yes	weak	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	weak	absent	yes	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	Roma	yes	weak	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	weak	no	yes	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
 	Roma	no	weak	weak	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
 	ethnic group	yes	weak	weak	no	yes
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	strong	absent	no	no
-	Roma	yes	strong	absent	yes	yes
-	religion	no	absent	absent	no	no
-	religion	yes	absent	strong	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	weak	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	strong	no	no	no
+	Roma	yes	strong	no	yes	yes
+	religion	no	no	no	no	no
+	religion	yes	no	strong	no	yes
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	weak	no	no
 	religion	yes	weak	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	no	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	no	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	ethnic group	no	no	no	no	no
 	religion	yes	strong	strong	no	yes
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	weak	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	weak	absent	no	yes
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	weak	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	weak	no	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	weak	no	no	yes
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	weak	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
 	religion	yes	strong	strong	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	strong	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	weak	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	no
-	ethnic group	no	absent	absent	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	strong	no	yes
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	weak	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	yes	no
+	ethnic group	no	no	no	no	no
 	Roma	yes	weak	strong	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	no	strong	absent	no	yes
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	yes	strong	absent	no	yes
-	Roma	no	absent	weak	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	yes	weak	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	weak	yes	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	no	strong	no	no	yes
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	yes	strong	no	no	yes
+	Roma	no	no	weak	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	yes	weak	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	weak	yes	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	Roma	yes	strong	strong	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	yes	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	ethnic group	no	weak	absent	yes	no
-	ethnic group	no	absent	absent	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	yes	no	no	no	no
+	Roma	no	no	no	no	yes
+	ethnic group	no	weak	no	yes	no
+	ethnic group	no	no	no	no	no
 	religion	no	weak	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	weak	no	yes
-	religion	yes	weak	absent	no	yes
-	religion	no	weak	absent	no	no
-	religion	yes	weak	absent	no	no
-	religion	yes	strong	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	weak	absent	yes	no
-	religion	no	weak	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	weak	yes	no
-	religion	yes	absent	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	weak	no	yes
+	religion	yes	weak	no	no	yes
+	religion	no	weak	no	no	no
+	religion	yes	weak	no	no	no
+	religion	yes	strong	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	weak	no	yes	no
+	religion	no	weak	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	weak	yes	no
+	religion	yes	no	no	no	yes
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
 	Roma	no	weak	strong	no	yes
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	yes	absent	absent	no	yes
-	ethnic group	no	absent	strong	no	no
-	Roma	no	absent	absent	no	no
-	ethnic group	no	absent	absent	yes	no
-	ethnic group	no	absent	strong	no	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	yes	no	no	no	yes
+	ethnic group	no	no	strong	no	no
+	Roma	no	no	no	no	no
+	ethnic group	no	no	no	yes	no
+	ethnic group	no	no	strong	no	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
 	religion	no	weak	weak	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	yes	no
-	religion	no	absent	absent	no	no
-	Roma	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	yes
-	ethnic group	no	absent	weak	no	no
-	ethnic group	no	absent	absent	no	yes
-	religion	no	absent	absent	no	no
-	religion	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	Roma	no	absent	absent	no	no
-	religion	no	weak	absent	no	no
-	religion	yes	strong	absent	no	yes
-	ethnic group	no	absent	absent	no	no
-	religion	yes	absent	absent	yes	yes
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	no
-	ethnic group	no	absent	absent	no	yes
-	Roma	no	absent	absent	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	religion	no	no	no	no	no
+	religion	no	no	no	yes	no
+	religion	no	no	no	no	no
+	Roma	no	no	no	no	yes
+	Roma	no	no	no	no	yes
+	ethnic group	no	no	weak	no	no
+	ethnic group	no	no	no	no	yes
+	religion	no	no	no	no	no
+	religion	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	Roma	no	no	no	no	no
+	religion	no	weak	no	no	no
+	religion	yes	strong	no	no	yes
+	ethnic group	no	no	no	no	no
+	religion	yes	no	no	yes	yes
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	no
+	ethnic group	no	no	no	no	yes
+	Roma	no	no	no	no	no
