@@ -15,13 +15,13 @@ The corpus development forms part of the wider [Hate Speech Monitoring](http://h
 If you use the resource, please cite:
 
 ~~~
-@InProceedings{,
-  author    = {},
-  title     = {},
-  booktitle = {},
-  month     = {},
-  year      = {},
-  address   = {},
+@InProceedings{PolettoEtAlCLIC2017,
+  author    = {Fabio Poletto and Marco Stranisci and Manuela Sanguinetti and Viviana Patti and Cristina Bosco},
+  title     = {Hate Speech Annotation: Analysis of an Italian Twitter Corpus},
+  booktitle = {Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)},
+  month     = {December 11-13},
+  year      = {2017},
+  address   = {Rome},
   publisher = {},
   pages     = {},
   url       = {}
