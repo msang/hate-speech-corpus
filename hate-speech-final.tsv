@@ -136,7 +136,7 @@ id_str	target	hate speech	aggressiveness	offensiveness	irony	stereotype
 786922528275128321	ethnic group	no	no	no	no	yes
 786944696996200450	ethnic group	no	weak	no	yes	yes
 786964008876343296	religion	no	no	no	no	no
-7,87169E+17	ethnic group	no	no	no	no	yes
+787169084320256000	ethnic group	no	no	no	no	yes
 787261172605194243	ethnic group	no	no	no	no	no
 787262462676520960	Roma	no	no	no	no	yes
 787397683698929664	ethnic group	no	no	no	no	no
@@ -678,7 +678,7 @@ id_str	target	hate speech	aggressiveness	offensiveness	irony	stereotype
 813767990403600386	Roma	no	no	no	no	yes
 813862040695500800	religion	no	no	no	no	no
 814000610777464832	religion	no	no	no	no	no
-8,14038E+17	Roma	yes	weak	weak	no	yes
+814037723367424000	Roma	yes	weak	weak	no	yes
 814078424486547456	religion	no	no	no	no	yes
 814089848059527168	Roma	no	no	no	no	yes
 814092077084635137	religion	no	weak	no	no	no
@@ -1098,731 +1098,731 @@ id_str	target	hate speech	aggressiveness	offensiveness	irony	stereotype
 831430313607823360	religion	no	no	strong	no	yes
 831439550878728194	ethnic group	yes	weak	strong	no	yes
 831444293067952128	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	yes	no	weak	yes	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	weak	weak	no	yes
-	Roma	yes	weak	weak	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	yes	weak	weak	no	yes
-	ethnic group	no	no	no	yes	no
-	religion	no	no	no	yes	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	no	no	yes
-	religion	yes	strong	no	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	strong	yes	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	weak	yes	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	strong	yes	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	weak	no	yes
-	Roma	yes	strong	no	no	no
-	Roma	yes	weak	weak	no	yes
-	religion	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	yes	yes
-	Roma	yes	strong	no	no	yes
-	Roma	yes	strong	no	no	no
-	ethnic group	no	no	no	no	yes
-	religion	no	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	yes	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	weak	weak	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	religion	no	no	no	no	yes
-	Roma	no	no	no	yes	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	no	yes	yes
-	Roma	no	weak	no	yes	no
-	Roma	yes	strong	strong	no	yes
-	Roma	no	strong	strong	no	no
-	Roma	yes	strong	strong	no	yes
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	strong	yes	no
-	Roma	yes	weak	no	no	no
-	Roma	no	no	no	yes	no
-	Roma	no	weak	weak	yes	no
-	Roma	yes	strong	weak	no	yes
-	Roma	yes	no	weak	yes	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	strong	yes	no
-	Roma	no	no	no	no	no
-	Roma	yes	no	strong	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	weak	strong	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	strong	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	strong	yes	no
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	weak	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	strong	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	weak	yes	no
-	religion	no	weak	no	no	no
-	Roma	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	strong	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	weak	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	Roma	no	no	weak	no	no
-	Roma	no	weak	no	no	yes
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	yes	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	yes
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	weak	weak	yes	yes
-	Roma	no	no	weak	no	yes
-	religion	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	weak	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	weak	no	no	yes
-	religion	yes	strong	strong	no	yes
-	religion	no	no	strong	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	weak	no	no	yes
-	religion	yes	weak	strong	yes	yes
-	religion	no	no	no	yes	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	weak	no	yes
-	ethnic group	no	weak	no	no	yes
-	Roma	no	no	no	yes	yes
-	Roma	no	no	weak	no	no
-	ethnic group	no	no	weak	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	yes
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	weak	weak	yes	yes
-	Roma	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	weak	no	no	yes
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	weak	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	yes	strong	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	yes	strong	weak	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	weak	weak	no	yes
-	Roma	no	no	weak	no	yes
-	Roma	no	no	no	no	no
-	Roma	yes	strong	weak	no	yes
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	yes
-	Roma	yes	strong	no	no	no
-	Roma	yes	weak	strong	no	yes
-	Roma	no	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	yes	strong	no	no	no
-	ethnic group	no	no	no	no	yes
-	Roma	no	no	strong	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	yes	strong	no	no	yes
-	Roma	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	ethnic group	yes	weak	strong	no	yes
-	religion	no	no	weak	no	yes
-	Roma	yes	strong	weak	no	yes
-	religion	yes	weak	strong	no	yes
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	religion	no	no	weak	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	yes	no	strong	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	weak	strong	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	weak	strong	yes	yes
-	ethnic group	no	no	no	no	no
-	Roma	yes	strong	no	no	no
-	Roma	no	weak	strong	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	weak	strong	no	yes
-	religion	no	no	weak	no	no
-	Roma	no	no	weak	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	yes	weak	no	yes	no
-	Roma	no	no	weak	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	weak	no	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	weak	no	yes
-	Roma	no	no	no	no	yes
-	ethnic group	no	weak	weak	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	weak	no	yes
-	Roma	no	weak	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	strong	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	yes	weak	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	Roma	no	weak	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	strong	no	no	no
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	yes	no	no	no	yes
-	Roma	yes	no	strong	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	yes	strong	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	yes
-	Roma	no	no	weak	no	no
-	religion	yes	weak	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	yes	weak	no	no	yes
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	religion	no	no	weak	yes	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	strong	no	no
-	religion	yes	no	no	no	yes
-	religion	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	religion	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	weak	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	yes	no	no	yes	yes
-	religion	no	no	no	no	no
-	ethnic group	yes	strong	strong	no	yes
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	weak	no	no	yes
-	Roma	yes	strong	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	strong	strong	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	yes	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	yes	strong	no	no	yes
-	religion	no	no	no	yes	no
-	religion	no	no	no	no	no
-	religion	no	weak	weak	no	yes
-	religion	yes	strong	strong	no	yes
-	religion	no	no	no	no	no
-	religion	yes	weak	no	no	yes
-	religion	yes	no	weak	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	yes	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	yes	strong	strong	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	yes
-	Roma	yes	strong	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	yes	weak	no	yes	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	no	no	no	no	no
-	religion	yes	strong	weak	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	weak	yes	no
-	ethnic group	no	no	no	yes	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	yes	yes
-	Roma	yes	strong	strong	no	no
-	ethnic group	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	religion	yes	weak	no	no	yes
-	religion	no	weak	no	yes	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	weak	no	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	weak	weak	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	yes
-	Roma	yes	strong	strong	yes	yes
-	Roma	yes	strong	no	no	no
-	Roma	no	no	no	yes	no
-	religion	no	no	no	yes	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	strong	no	no
-	Roma	no	no	no	no	no
-	ethnic group	yes	strong	weak	no	yes
-	ethnic group	no	weak	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	weak	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	weak	yes	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	weak	strong	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	strong	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	yes	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	yes
-	ethnic group	no	no	no	no	yes
-	religion	yes	weak	weak	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	weak	no	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	yes	weak	no	yes	yes
-	Roma	yes	strong	strong	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	weak	no	no	yes
-	ethnic group	yes	weak	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	weak	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	weak	strong	no	yes
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	weak	no	yes	no
-	ethnic group	no	weak	no	no	yes
-	religion	no	no	weak	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	religion	no	weak	weak	no	no
-	religion	yes	strong	strong	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	yes	strong	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	yes	strong	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	no	no	no
-	Roma	no	weak	no	no	no
-	Roma	no	no	no	no	no
-	religion	yes	strong	no	yes	no
-	religion	no	weak	no	no	no
-	Roma	no	weak	no	no	yes
-	Roma	yes	strong	no	no	yes
-	Roma	yes	strong	no	no	yes
-	Roma	no	no	no	no	no
-	Roma	yes	strong	no	no	no
-	Roma	no	no	no	yes	yes
-	Roma	no	no	no	no	yes
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	weak	no	yes	yes
-	religion	no	no	no	yes	no
-	ethnic group	no	no	no	yes	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	strong	yes	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	yes	strong	no	yes	no
-	religion	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	Roma	no	weak	no	yes	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	yes
-	religion	yes	strong	weak	yes	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	religion	no	weak	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	religion	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	Roma	yes	weak	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	weak	no	yes	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	weak	weak	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	yes	weak	weak	no	yes
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	strong	no	no	no
-	Roma	yes	strong	no	yes	yes
-	religion	no	no	no	no	no
-	religion	yes	no	strong	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	weak	no	no
-	religion	yes	weak	weak	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	no	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	yes	strong	strong	no	yes
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	weak	no	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	weak	no	no	yes
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	weak	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	strong	strong	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	strong	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	weak	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	yes	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	weak	strong	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	no	strong	no	no	yes
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	yes	strong	no	no	yes
-	Roma	no	no	weak	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	yes	weak	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	weak	yes	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	strong	strong	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	yes	no	no	no	no
-	Roma	no	no	no	no	yes
-	ethnic group	no	weak	no	yes	no
-	ethnic group	no	no	no	no	no
-	religion	no	weak	strong	no	yes
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	weak	no	yes
-	religion	yes	weak	no	no	yes
-	religion	no	weak	no	no	no
-	religion	yes	weak	no	no	no
-	religion	yes	strong	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	weak	no	yes	no
-	religion	no	weak	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	weak	yes	no
-	religion	yes	no	no	no	yes
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	Roma	no	weak	strong	no	yes
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	yes	no	no	no	yes
-	ethnic group	no	no	strong	no	no
-	Roma	no	no	no	no	no
-	ethnic group	no	no	no	yes	no
-	ethnic group	no	no	strong	no	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	weak	weak	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	religion	no	no	no	no	no
-	religion	no	no	no	yes	no
-	religion	no	no	no	no	no
-	Roma	no	no	no	no	yes
-	Roma	no	no	no	no	yes
-	ethnic group	no	no	weak	no	no
-	ethnic group	no	no	no	no	yes
-	religion	no	no	no	no	no
-	religion	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	Roma	no	no	no	no	no
-	religion	no	weak	no	no	no
-	religion	yes	strong	no	no	yes
-	ethnic group	no	no	no	no	no
-	religion	yes	no	no	yes	yes
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	no
-	ethnic group	no	no	no	no	yes
-	Roma	no	no	no	no	no
+831460937404145666	ethnic group	no	no	no	no	no
+831536055820095488	religion	yes	no	weak	yes	yes
+831804297478361090	ethnic group	no	no	no	no	no
+831857392447025154	religion	no	no	no	no	no
+831877250110849024	ethnic group	no	weak	weak	no	yes
+831993503521587200	Roma	yes	weak	weak	no	yes
+832043278782562305	ethnic group	no	no	no	no	no
+832117926496989184	ethnic group	no	no	no	no	no
+832153029453426689	religion	yes	weak	weak	no	yes
+832311342686167041	ethnic group	no	no	no	yes	no
+832315585715396610	religion	no	no	no	yes	no
+832357805722042368	ethnic group	no	no	no	yes	no
+832544031599128576	Roma	no	no	no	no	no
+832603387527065601	Roma	yes	strong	no	no	yes
+832606006400131072	religion	yes	strong	no	no	yes
+832620779938291713	ethnic group	no	no	no	no	no
+832874412932231168	ethnic group	no	no	strong	yes	yes
+832875325939912704	ethnic group	no	no	no	no	no
+832888735742111745	religion	no	no	no	no	no
+832917255772061697	religion	no	no	weak	yes	no
+832969264474775552	religion	no	no	no	no	no
+833018608737456128	religion	no	no	no	no	no
+833088252617846784	ethnic group	no	no	no	no	no
+833265154397708288	ethnic group	no	no	no	no	no
+833355969895739392	religion	no	no	strong	yes	no
+833377166201147393	ethnic group	no	no	no	yes	no
+833380717434437634	Roma	no	no	no	no	no
+833442241041530882	religion	no	no	no	no	no
+833452529526636544	Roma	no	no	no	no	no
+833583576876716032	Roma	no	no	no	no	no
+833584442883047424	religion	no	no	weak	no	yes
+833600418496258048	Roma	yes	strong	no	no	no
+833643349672390656	Roma	yes	weak	weak	no	yes
+833678425734922240	religion	no	no	no	no	yes
+833709827222278144	ethnic group	no	no	no	no	no
+833991012896878596	Roma	no	no	no	no	no
+834002168646610946	ethnic group	no	no	no	yes	yes
+834017400861384705	Roma	yes	strong	no	no	yes
+834072981949263872	Roma	yes	strong	no	no	no
+834125776299683840	ethnic group	no	no	no	no	yes
+834160529212112897	religion	no	weak	no	no	yes
+834160559876628480	ethnic group	no	no	no	no	no
+834303586070884352	religion	yes	weak	no	no	yes
+834360663388598272	ethnic group	no	no	no	no	no
+834459797089038340	religion	no	no	no	no	no
+834489958715031552	ethnic group	no	no	no	no	no
+834662053507919874	ethnic group	no	no	no	no	no
+834679363916402688	Roma	no	no	no	no	no
+834747796599238660	Roma	yes	weak	weak	no	yes
+834767085049933827	religion	no	no	no	no	no
+834842905260986369	religion	no	no	no	no	no
+834856461549330436	ethnic group	no	no	no	no	no
+834902821833166848	ethnic group	no	no	no	no	yes
+834927790457749504	religion	no	no	no	no	yes
+835030821912383488	Roma	no	no	no	yes	no
+835042887922495488	ethnic group	no	no	no	yes	no
+835043531412672512	Roma	no	no	no	no	no
+835095474621173762	Roma	no	no	no	no	no
+835105227988733952	Roma	no	weak	no	yes	yes
+835115981404008449	Roma	no	weak	no	yes	no
+835116610457333760	Roma	yes	strong	strong	no	yes
+835123364205297664	Roma	no	strong	strong	no	no
+835133618121019392	Roma	yes	strong	strong	no	yes
+835143262180634624	Roma	yes	strong	strong	no	yes
+835151283053019136	Roma	no	no	no	no	no
+835163632220704772	Roma	no	no	no	no	no
+835167314089738240	Roma	no	no	strong	yes	no
+835168462720876545	Roma	yes	weak	no	no	no
+835174886339403776	Roma	no	no	no	yes	no
+835179695574507522	Roma	no	weak	weak	yes	no
+835191339939729408	Roma	yes	strong	weak	no	yes
+835195730306416641	Roma	yes	no	weak	yes	yes
+835198657821556736	Roma	no	no	no	no	no
+835209985940418560	Roma	no	no	no	no	no
+835210438031904769	Roma	no	no	no	no	no
+835214537620082692	Roma	yes	strong	no	no	yes
+835219826268323840	Roma	no	no	no	no	no
+835234231819382785	Roma	no	no	strong	yes	no
+835236787412938755	Roma	no	no	no	no	no
+835251953898766336	Roma	yes	no	strong	no	yes
+835261323135041538	Roma	no	no	no	no	no
+835367521217806336	Roma	no	no	no	no	no
+835417069160120323	Roma	no	no	no	no	no
+835439394467250180	Roma	no	no	no	no	no
+835441593343672320	Roma	no	no	no	no	no
+835460912018489345	Roma	no	no	no	no	no
+835463065193885696	Roma	yes	weak	strong	no	yes
+835473416555806721	Roma	no	no	no	no	yes
+835482833753899008	Roma	no	no	no	no	no
+835485845910089729	Roma	no	no	strong	no	no
+835494255879544837	ethnic group	no	no	no	no	no
+835538011223912448	religion	no	no	strong	yes	no
+835550328053452800	Roma	yes	strong	strong	no	yes
+835551142293696513	Roma	no	no	no	yes	no
+835565045220278273	Roma	no	no	no	no	no
+835785575445725185	Roma	no	weak	weak	no	yes
+835799869763768320	ethnic group	no	no	no	no	no
+835807152950259712	Roma	no	no	no	no	no
+835808647741599746	Roma	no	no	no	no	no
+835851283198246913	Roma	no	no	no	no	no
+835871401835900928	religion	no	no	no	no	no
+835892464879808512	Roma	no	no	strong	no	yes
+835932841376624641	Roma	no	no	no	no	no
+835934578040786947	ethnic group	no	no	weak	yes	no
+835948142122127360	religion	no	weak	no	no	no
+836130157350039552	Roma	no	no	no	no	no
+836169067283300352	religion	yes	strong	strong	no	yes
+836178239131353089	ethnic group	no	no	no	no	no
+836180186412511232	Roma	no	no	no	no	no
+836210899023200256	ethnic group	no	no	strong	no	no
+836252150858678273	religion	no	no	no	no	no
+836267478456090626	Roma	no	no	no	no	yes
+836284322277638144	ethnic group	no	no	no	no	no
+836316438432473091	Roma	no	no	weak	no	no
+836323241803321344	Roma	no	no	no	no	no
+836324370339479552	Roma	no	no	no	no	no
+836324874704535553	Roma	no	weak	no	no	no
+836327237829943297	Roma	no	no	weak	no	no
+836327535063478272	Roma	no	weak	no	no	yes
+836327669516156932	Roma	yes	strong	strong	no	yes
+836328435777699841	Roma	no	no	no	no	yes
+836336756471513090	Roma	no	no	no	no	yes
+836448076445417473	religion	no	no	no	no	no
+836524675962396672	ethnic group	no	no	no	no	no
+836553090035814400	ethnic group	no	no	no	no	yes
+836563501397200896	Roma	no	no	no	no	yes
+836571764696186880	Roma	no	no	no	no	yes
+836579045685006336	Roma	no	no	no	no	yes
+836579910789513216	Roma	no	no	no	no	yes
+836592654951583747	religion	no	no	no	no	no
+836597183692607488	Roma	no	no	no	no	no
+836599905158324225	Roma	no	no	no	yes	no
+836623196593979395	ethnic group	no	no	no	no	no
+836650463143596032	religion	no	no	no	no	no
+836666454179213312	religion	no	no	no	no	no
+836694802754326529	Roma	yes	strong	strong	no	yes
+836705964095070209	Roma	no	no	no	no	yes
+836741232613281793	religion	no	no	no	no	no
+836805456999944192	Roma	no	no	no	no	no
+836813292941213697	ethnic group	no	no	no	no	no
+836828121840168960	ethnic group	no	no	no	no	no
+836858310984941570	ethnic group	no	no	no	yes	no
+836892139120377857	Roma	no	no	no	no	no
+836906066470440960	religion	yes	strong	strong	no	yes
+836919831794499584	Roma	no	no	no	no	yes
+836920788682944512	Roma	no	no	no	no	no
+836926467984474112	Roma	no	no	no	no	no
+836927857662312449	ethnic group	no	no	no	yes	no
+836934366475530240	Roma	no	weak	weak	yes	yes
+836952929185771520	Roma	no	no	weak	no	yes
+836984365628305408	religion	no	no	no	no	yes
+837013743838052352	Roma	no	no	no	no	no
+837016796691632134	Roma	no	no	weak	no	yes
+837044424626450432	ethnic group	no	no	no	no	no
+837045975461986306	Roma	no	weak	no	no	yes
+837063953725415425	religion	yes	strong	strong	no	yes
+837219345277337600	religion	no	no	strong	no	yes
+837256895366823937	Roma	no	no	no	no	no
+837269070567378945	Roma	no	no	no	no	yes
+837269154512187392	Roma	no	no	no	no	no
+837308026801516545	Roma	yes	strong	strong	no	yes
+837329348986273793	Roma	no	no	no	no	no
+837406435805970436	ethnic group	no	weak	no	no	yes
+837408820641075203	religion	yes	weak	strong	yes	yes
+837408945442533376	religion	no	no	no	yes	no
+837547639872724993	ethnic group	no	no	no	no	no
+837601784021516288	Roma	no	no	weak	no	yes
+837617819437187072	ethnic group	no	weak	no	no	yes
+837650611030089728	Roma	no	no	no	yes	yes
+837674921266397184	Roma	no	no	weak	no	no
+837724049325363200	ethnic group	no	no	weak	no	yes
+837733024166989825	ethnic group	no	no	no	no	no
+837800565321134081	religion	no	no	no	no	no
+837862493359915008	religion	no	no	no	no	no
+837932874003251201	Roma	no	no	no	no	no
+837977989983895552	religion	no	no	no	no	yes
+837999205331304448	religion	no	no	no	no	no
+838019723904303104	Roma	no	no	no	no	yes
+838147029700382723	Roma	no	weak	weak	yes	yes
+838151560286912513	Roma	no	weak	no	no	no
+838155254386556928	ethnic group	no	no	no	no	no
+838345220555161600	ethnic group	no	no	no	no	no
+838363769747222528	ethnic group	no	no	no	no	no
+838469950654251008	Roma	yes	weak	no	no	yes
+838487794511147008	ethnic group	no	no	no	yes	no
+838495114859327489	Roma	no	no	no	no	no
+838517808552116225	religion	no	no	no	no	no
+838668978721533952	Roma	no	no	no	no	no
+838686416884359172	ethnic group	no	no	weak	no	no
+838732157862432768	ethnic group	no	no	no	no	no
+838735847906283520	ethnic group	yes	strong	no	no	yes
+838772452046082050	ethnic group	no	no	no	no	no
+838777514466111488	Roma	no	no	no	no	no
+838790666532564992	ethnic group	yes	strong	weak	no	yes
+838828572575944704	Roma	no	no	no	no	no
+838837616535564293	Roma	no	no	no	no	no
+838838878370951168	Roma	yes	weak	weak	no	yes
+838840459577413636	Roma	no	no	weak	no	yes
+838842516338262016	Roma	no	no	no	no	no
+838842682256601089	Roma	yes	strong	weak	no	yes
+838844026082193409	Roma	no	no	no	yes	no
+839023401779986433	Roma	no	no	no	no	yes
+839097147048013824	Roma	yes	strong	no	no	no
+839114839297568771	Roma	yes	weak	strong	no	yes
+839128428766982144	Roma	no	weak	no	no	yes
+839136370283147264	ethnic group	no	no	no	no	no
+839209165390233604	ethnic group	no	no	no	no	no
+839217549241954304	ethnic group	no	no	no	no	no
+839240240170680322	ethnic group	yes	strong	no	no	no
+839257039880785920	ethnic group	no	no	no	no	yes
+839358622375247875	Roma	no	no	strong	no	yes
+839404327626231808	Roma	no	no	no	no	yes
+839470128601444352	Roma	no	no	no	no	no
+839495465037103105	ethnic group	no	no	no	no	no
+839500674387816450	ethnic group	no	no	no	no	no
+839522783386341376	Roma	no	no	no	no	no
+839545055052345344	ethnic group	no	no	no	no	no
+839613154778841090	ethnic group	yes	strong	no	no	yes
+839677695487270912	Roma	no	no	no	no	yes
+839764329142550529	ethnic group	no	no	no	no	no
+839786907001303040	Roma	no	no	no	no	no
+839790048987996162	Roma	no	no	no	no	yes
+839804568103960579	ethnic group	yes	weak	strong	no	yes
+839806298866790400	religion	no	no	weak	no	yes
+839822194976915456	Roma	yes	strong	weak	no	yes
+839844610277015552	religion	yes	weak	strong	no	yes
+839855792673198080	religion	no	no	no	no	no
+839896135619727362	Roma	no	no	no	no	no
+840034093106679808	Roma	no	no	no	no	no
+840120906009595904	religion	no	no	no	no	no
+840145660531822592	ethnic group	no	no	no	no	no
+840184094990327809	ethnic group	no	no	no	no	yes
+840191044314660864	religion	no	no	weak	no	yes
+840210490701824000	Roma	no	no	no	no	no
+840228788755652608	ethnic group	no	no	no	no	no
+840244938210197504	religion	no	no	no	no	no
+840251844278538241	Roma	yes	no	strong	no	yes
+840285163762380801	ethnic group	no	no	no	no	no
+840304313054433280	ethnic group	no	no	no	no	no
+840448271420145665	Roma	yes	weak	strong	no	yes
+840496805175529475	Roma	no	no	no	no	no
+840504373268664324	Roma	no	no	no	no	no
+840562445169090560	Roma	no	no	no	no	no
+840597574260273153	ethnic group	no	no	no	no	no
+840649220650598400	Roma	yes	weak	strong	yes	yes
+840824444037844992	ethnic group	no	no	no	no	no
+840829274772889600	Roma	yes	strong	no	no	no
+840829719008407553	Roma	no	weak	strong	no	yes
+840850479093600256	ethnic group	no	no	no	no	no
+840881911132246018	ethnic group	yes	strong	no	no	yes
+840888714242998273	Roma	no	no	no	no	no
+840930076766044162	religion	no	no	no	no	no
+840948142677884928	Roma	no	weak	strong	no	yes
+840970916297396227	religion	no	no	weak	no	no
+840977044796264448	Roma	no	no	weak	no	yes
+840982220219273216	Roma	no	no	no	no	yes
+840986810016759808	Roma	no	no	no	no	no
+841009329708908544	Roma	no	no	no	no	no
+841040115514429442	ethnic group	no	no	no	no	no
+841048691502907392	Roma	no	no	no	no	no
+841069080190820352	religion	no	no	no	no	no
+841106882429353984	religion	yes	strong	strong	no	yes
+841174623341432832	ethnic group	no	no	no	yes	no
+841181064018169857	Roma	no	no	no	no	no
+841187108626825220	Roma	no	no	no	no	no
+841187823860477952	ethnic group	yes	weak	no	yes	no
+841193315064283136	Roma	no	no	weak	no	yes
+841197163052843008	Roma	no	no	no	no	no
+841201335731134464	Roma	no	no	no	no	no
+841207117721681920	Roma	no	no	no	no	no
+841211116214726657	Roma	no	no	no	no	no
+841233645360824320	Roma	yes	weak	no	no	yes
+841238000398934016	Roma	no	no	no	no	no
+841242918052544512	ethnic group	no	no	no	no	no
+841253048588652544	ethnic group	no	no	no	no	no
+841254721532882945	Roma	no	no	no	no	no
+841271759835914245	Roma	yes	strong	weak	no	yes
+841310807757582336	Roma	no	no	no	no	yes
+841311441231720449	ethnic group	no	weak	weak	no	no
+841316501625962496	ethnic group	no	no	no	no	no
+841336164904714240	Roma	no	no	weak	no	yes
+841336375857303553	Roma	no	weak	no	no	yes
+841344387984560128	Roma	no	no	no	no	yes
+841344752570241026	Roma	no	no	no	no	no
+841378581230022657	Roma	no	strong	no	no	yes
+841386226733195264	Roma	no	no	no	no	no
+841544236252180480	Roma	no	no	no	no	no
+841569175432749057	religion	no	no	no	no	no
+841599836222832640	religion	no	no	no	no	no
+841602577288564737	Roma	yes	weak	no	no	yes
+841621762446094336	Roma	no	no	no	no	no
+841658938407952384	Roma	no	no	no	no	no
+841702281770864645	Roma	no	no	no	no	no
+841702803861045248	ethnic group	no	no	no	no	no
+841719665793597445	religion	no	no	no	no	no
+841768324639928322	Roma	no	no	no	no	no
+841781504724336640	Roma	no	no	no	no	no
+841909513640902656	Roma	no	weak	no	no	no
+841911402973532162	Roma	no	weak	no	no	no
+841936278572658690	religion	no	no	no	no	no
+841936928870154240	ethnic group	no	no	no	no	no
+841940786975518720	Roma	yes	strong	no	no	yes
+841941986852655104	Roma	no	no	no	no	no
+841946306205630464	Roma	no	no	no	no	no
+841952589411422208	ethnic group	no	no	no	no	no
+842024077707624449	ethnic group	no	no	no	no	no
+842036245714882560	Roma	no	weak	no	no	no
+842056134596915201	Roma	no	no	no	no	no
+842066000795316224	ethnic group	no	no	no	no	no
+842086407636189186	Roma	yes	strong	no	no	no
+842351477750419456	Roma	no	no	no	yes	no
+842396294832353282	Roma	no	no	no	no	no
+842447725543198726	Roma	yes	no	no	no	yes
+842460081597894656	Roma	yes	no	strong	no	yes
+842464997691273216	ethnic group	no	no	no	no	no
+842482955494850560	Roma	no	no	no	no	yes
+842498452206567425	Roma	yes	strong	no	no	no
+842605206026108928	Roma	no	no	no	no	no
+842635347293061120	religion	no	no	no	no	no
+842640313822990336	ethnic group	no	no	no	no	no
+842678144314363905	religion	no	no	no	no	no
+842721846885801984	Roma	no	no	no	yes	no
+842772889837490176	Roma	no	no	no	no	yes
+842776832755810306	Roma	no	no	weak	no	no
+842863108058238977	religion	yes	weak	no	no	yes
+842865525797666816	Roma	no	no	no	no	no
+842871573031800833	Roma	yes	weak	no	no	yes
+842998889695318016	religion	no	no	no	no	no
+843009590551855106	ethnic group	no	no	no	no	no
+843040818260721664	Roma	no	no	no	no	yes
+843063966016442368	religion	no	no	weak	yes	no
+843070675292246018	religion	no	no	no	no	no
+843071580339126276	ethnic group	no	no	strong	no	no
+843077546250067970	religion	yes	no	no	no	yes
+843092205824884736	religion	yes	strong	no	no	yes
+843104644112953345	Roma	no	no	no	no	no
+843138596899078146	religion	yes	strong	no	no	yes
+843150299024015361	Roma	no	no	no	no	no
+843606884787609601	ethnic group	no	no	no	no	no
+843612862249652227	Roma	no	weak	no	no	no
+843739169276870659	ethnic group	no	no	no	no	no
+843764056968323072	ethnic group	no	no	no	no	no
+843773684569595905	ethnic group	no	no	no	no	no
+843837877247270912	religion	no	no	no	no	no
+843852545110016005	Roma	no	no	no	no	no
+843875425420038144	ethnic group	no	no	no	no	no
+843930156301500416	ethnic group	no	no	no	no	no
+844118496875286528	Roma	yes	no	no	no	no
+844121556167151616	Roma	no	no	no	no	no
+844125721450766336	Roma	yes	strong	weak	no	yes
+844128473857867776	ethnic group	no	no	no	no	no
+844128971734372352	Roma	no	no	no	no	no
+844131402882867200	ethnic group	no	no	no	no	no
+844153338082082817	ethnic group	no	no	no	no	yes
+844206669173329921	Roma	no	no	no	no	no
+844240900066869249	ethnic group	no	no	no	no	no
+844250078684631040	Roma	no	no	no	no	no
+844266581152743426	ethnic group	yes	no	no	yes	yes
+844283579224014848	religion	no	no	no	no	no
+844301862027321348	ethnic group	yes	strong	strong	no	yes
+844312049173848065	Roma	no	no	no	yes	no
+844321804911087616	Roma	no	no	no	no	no
+844439259889242113	Roma	no	no	no	no	no
+844477106230902785	Roma	no	weak	no	no	no
+844493809497112577	ethnic group	no	no	no	no	no
+844500879709523970	ethnic group	no	weak	no	no	yes
+844523475024957440	Roma	yes	strong	no	no	no
+844523967167807489	ethnic group	no	no	no	no	no
+844578205927428096	religion	no	strong	strong	no	no
+844583201804861442	religion	no	no	no	no	no
+844590609772023808	religion	no	no	no	no	no
+844596307939508224	Roma	yes	no	no	no	no
+844613054017028105	religion	no	no	no	yes	no
+844616526183514120	religion	yes	strong	no	no	yes
+844617357897220099	religion	no	no	no	yes	no
+844638915420180480	religion	no	no	no	no	no
+844649999279554561	religion	no	weak	weak	no	yes
+844650822034165761	religion	yes	strong	strong	no	yes
+844664130023895040	religion	no	no	no	no	no
+844665509325029376	religion	yes	weak	no	no	yes
+844693921674543104	religion	yes	no	weak	no	yes
+844784974096097280	religion	no	no	no	no	no
+844813714918260737	religion	no	no	no	no	no
+844816351495544833	religion	no	no	no	no	no
+844817192864571392	religion	no	no	no	no	no
+844833790052597764	religion	no	no	no	yes	no
+844837273162067972	religion	yes	weak	no	no	no
+844861081633808385	ethnic group	no	no	no	no	no
+844862839340785665	Roma	no	no	no	no	yes
+844866516344483842	Roma	no	no	no	no	yes
+844871171350802432	Roma	yes	strong	strong	no	yes
+844874218714152960	religion	no	no	no	no	no
+844876864153899008	religion	no	no	no	no	no
+844895278201233409	religion	no	no	no	no	yes
+844898928432697344	Roma	yes	strong	no	no	no
+844910786078236674	religion	no	no	no	no	no
+844915018051309568	Roma	no	no	no	no	no
+844934219570827265	religion	no	no	no	no	no
+844949525643104257	religion	no	no	no	yes	no
+844953330933776384	Roma	no	no	no	no	no
+844955896350412802	Roma	yes	weak	no	yes	yes
+844981035087605760	religion	no	no	no	no	no
+844984101874610176	religion	no	no	no	yes	no
+844984163996446720	Roma	no	no	no	no	no
+845017877992390656	religion	no	no	no	no	no
+845024920639885313	religion	no	no	no	no	no
+845159172169617408	religion	no	no	no	no	no
+845180156612272128	religion	no	no	no	yes	no
+845206581297991680	religion	no	no	no	no	no
+845266866444652544	religion	yes	strong	weak	no	no
+845304315862548480	religion	no	no	no	no	no
+845304443017068544	religion	no	no	no	no	no
+845381221236576256	Roma	no	no	weak	yes	no
+845452122682544131	ethnic group	no	no	no	yes	no
+845562500842184704	ethnic group	no	no	no	no	no
+845574470316294144	Roma	no	no	no	yes	yes
+845612572015558656	Roma	yes	strong	strong	no	no
+845638444516827136	ethnic group	no	no	no	no	no
+845638862995181568	religion	yes	strong	strong	no	yes
+845667031848566785	religion	yes	weak	no	no	yes
+845680110707585028	religion	no	weak	no	yes	no
+845890925826072576	ethnic group	no	no	no	no	no
+845936608012652544	religion	no	no	no	no	no
+845987641803853825	religion	yes	weak	no	no	yes
+846015700464472065	Roma	no	no	no	no	no
+846028456962015234	ethnic group	no	no	no	no	no
+846096380741476353	religion	no	no	no	no	no
+846117428283260928	religion	no	no	no	no	no
+846253938240376833	Roma	no	weak	weak	no	yes
+846278429813157888	Roma	no	no	no	no	no
+846345032114339840	religion	no	no	no	no	yes
+846470524029091841	Roma	yes	strong	strong	yes	yes
+846473461501440000	Roma	yes	strong	no	no	no
+846480800812060672	Roma	no	no	no	yes	no
+846639822844448768	religion	no	no	no	yes	no
+846786986245607429	ethnic group	no	no	no	no	no
+846856984280399872	religion	no	no	strong	no	no
+846978641913434112	Roma	no	no	no	no	no
+846992494957133824	ethnic group	yes	strong	weak	no	yes
+846997605406162944	ethnic group	no	weak	no	no	no
+847043681362305024	Roma	no	no	no	no	no
+847116915789193217	ethnic group	no	no	no	no	no
+847146179263709190	ethnic group	no	no	no	no	no
+847175823668989954	religion	no	no	no	no	yes
+847184835093389313	ethnic group	no	no	no	no	no
+847196241020817409	religion	no	weak	no	no	yes
+847337130401464320	Roma	no	no	no	no	no
+847348525348212737	Roma	no	no	no	no	yes
+847364440584409089	Roma	no	no	no	no	no
+847381706310995969	religion	no	no	weak	yes	no
+847396797924298752	religion	no	no	no	no	no
+847404622222303235	ethnic group	no	no	no	no	no
+847417280715603972	religion	no	weak	strong	no	yes
+847425833216000001	religion	no	no	no	no	no
+847431752704434179	religion	no	no	no	no	no
+847437658791976960	religion	yes	strong	no	no	no
+847443931264450560	ethnic group	no	no	no	no	no
+847448050335326212	religion	yes	weak	no	no	yes
+847498217964961792	ethnic group	no	no	no	no	no
+847538042927820800	religion	no	no	no	no	yes
+847544674235625472	ethnic group	no	no	no	no	yes
+847545450559401986	religion	yes	weak	weak	no	yes
+847563356370284548	ethnic group	no	no	no	no	no
+847698253437050880	religion	no	no	no	no	no
+847773762909065216	Roma	no	no	no	no	no
+847791112341389312	religion	no	no	no	no	no
+847791190007316480	religion	yes	weak	no	no	yes
+847791214111764480	religion	no	no	no	no	no
+847833316053184512	religion	no	no	no	no	yes
+847857298584330240	Roma	no	no	no	no	no
+847883618928271360	Roma	yes	weak	no	yes	yes
+847899024480927744	Roma	yes	strong	strong	no	no
+847973066756038656	religion	no	no	no	no	no
+847996428131741697	ethnic group	no	no	no	no	no
+848132110481272832	Roma	no	no	no	no	no
+848181894504206336	ethnic group	no	no	no	no	no
+848250001243426817	Roma	no	weak	no	no	yes
+848393830554587136	ethnic group	yes	weak	no	no	yes
+848418816824668161	Roma	no	no	no	no	yes
+848419383240163328	Roma	no	no	no	no	yes
+848470093042294785	Roma	no	no	no	no	no
+848517751819956224	Roma	no	weak	no	no	no
+848530486926479362	religion	no	no	no	no	no
+848645557824499713	Roma	no	weak	strong	no	yes
+848646425147834368	Roma	no	no	no	no	no
+848651557608599553	Roma	no	no	no	no	no
+848808771195473921	religion	no	no	no	yes	no
+848897297106829312	religion	no	no	no	no	no
+848924425907044352	Roma	no	no	no	no	no
+848927037775425537	religion	no	no	no	no	no
+848931448136531972	religion	no	weak	no	yes	no
+848946797540241408	ethnic group	no	weak	no	no	yes
+848953272941637636	religion	no	no	weak	no	no
+848979457239023618	religion	no	no	no	no	no
+848985509733044229	Roma	no	no	no	no	yes
+848995632064933888	ethnic group	no	no	no	no	no
+849039712031584257	Roma	no	no	no	no	yes
+849141767425359873	religion	no	weak	weak	no	no
+849156218572730368	religion	yes	strong	strong	no	no
+849161037148545024	ethnic group	no	no	no	no	no
+849164291035082753	religion	no	no	no	no	no
+849171657075941376	religion	no	no	no	no	no
+849173688821977088	ethnic group	yes	strong	no	no	yes
+849179554665123840	ethnic group	no	no	no	no	no
+849229507177439232	Roma	yes	strong	no	no	no
+849298409739759616	religion	no	no	no	no	no
+849322029358735361	religion	no	no	no	no	no
+849334374868889601	Roma	no	no	no	no	no
+849550311689728000	ethnic group	no	no	no	yes	no
+849573624990228480	Roma	no	no	no	no	no
+849575956700332032	Roma	no	no	no	yes	no
+849617516909428736	Roma	no	no	no	no	no
+849685319234596869	Roma	yes	strong	no	no	no
+849707020341182469	Roma	no	weak	no	no	no
+849725098030489600	Roma	no	no	no	no	no
+849732800630620161	religion	yes	strong	no	yes	no
+849775019865640962	religion	no	weak	no	no	no
+849900443429986304	Roma	no	weak	no	no	yes
+849909321920114688	Roma	yes	strong	no	no	yes
+849920673082474498	Roma	yes	strong	no	no	yes
+849924423222255616	Roma	no	no	no	no	no
+849936998974574596	Roma	yes	strong	no	no	no
+849959694852599809	Roma	no	no	no	yes	yes
+849968973378715649	Roma	no	no	no	no	yes
+849972938958938112	religion	no	no	no	no	no
+849981459612008448	Roma	no	no	no	no	no
+850016260792438785	ethnic group	no	no	no	no	no
+850026212403687426	ethnic group	no	no	no	no	no
+850074916451995651	religion	no	no	no	no	no
+850109430586847232	religion	yes	weak	no	yes	yes
+850198183766482944	religion	no	no	no	yes	no
+850245576176287747	ethnic group	no	no	no	yes	no
+850279698609438720	Roma	no	no	no	no	no
+850279908521717760	ethnic group	no	no	strong	yes	no
+850290882721042433	religion	no	no	no	no	no
+850329895729324033	Roma	no	no	no	no	no
+850333162702065664	Roma	no	no	no	no	no
+850336609987952640	religion	no	no	no	no	no
+850346194232594432	religion	no	no	no	no	no
+850348752045039620	religion	no	no	no	no	no
+850351201786974211	Roma	no	no	no	no	no
+850356343068385280	Roma	no	no	no	no	no
+850366617125101569	religion	no	no	no	no	no
+850367564119068672	Roma	no	no	no	no	no
+850403174322143234	Roma	yes	strong	no	yes	no
+850409677615759363	religion	no	no	no	no	no
+850419684528803840	religion	yes	strong	strong	no	yes
+850422866684325889	Roma	no	weak	no	yes	no
+850426828640702465	religion	no	no	no	no	no
+850476486570192897	religion	no	no	no	yes	yes
+850486979779321859	religion	yes	strong	weak	yes	no
+850508177959473152	religion	no	no	no	no	no
+850602446565126144	religion	no	no	no	no	no
+850603310474301440	ethnic group	no	no	no	no	no
+850618322072764416	religion	yes	strong	strong	no	yes
+850620171463131139	religion	no	weak	no	no	no
+850731297278312448	religion	no	no	no	no	no
+850740078209060864	Roma	no	no	no	no	yes
+850766625926246400	religion	no	no	no	no	no
+850807870123909122	religion	yes	strong	strong	no	yes
+850845099630231553	Roma	yes	weak	no	no	no
+850992603986366464	religion	no	no	no	no	no
+851007461930696704	religion	no	no	no	no	no
+851022309444005888	ethnic group	no	no	no	no	no
+851037078863347713	ethnic group	no	no	no	no	no
+851041326783180800	ethnic group	no	no	no	no	no
+851054437544194048	religion	no	no	no	no	no
+851074581557325824	religion	no	no	no	no	no
+851090444507381761	religion	no	no	no	no	no
+851101703533408256	Roma	no	no	no	no	yes
+851157914853277698	Roma	no	weak	no	yes	no
+851188309695111171	religion	no	no	no	no	no
+851311680055373825	religion	no	no	no	no	no
+851332404379873280	Roma	no	weak	weak	no	yes
+851347700293435392	religion	no	no	no	no	no
+851354712448401408	religion	no	no	no	no	no
+851381888191213568	religion	no	no	no	no	no
+851399516456534016	Roma	no	no	no	no	no
+851459908830670848	religion	no	no	no	no	no
+851475627588952064	ethnic group	yes	weak	weak	no	yes
+851477582856040449	Roma	yes	strong	strong	no	yes
+851480109739651073	Roma	no	no	no	no	no
+851495405959299077	religion	no	no	no	no	no
+851502903030403075	Roma	no	strong	no	no	no
+851515409509568513	Roma	yes	strong	no	yes	yes
+851522197306912769	religion	no	no	no	no	no
+851522460658917377	religion	yes	no	strong	no	yes
+851535635399802881	Roma	no	no	no	no	no
+851539441013358592	religion	no	no	no	no	no
+851544535645777920	religion	no	no	weak	no	no
+851561414720446465	religion	yes	weak	weak	no	yes
+851701651740082177	ethnic group	no	no	no	no	no
+851708401990152192	religion	no	no	no	no	no
+851731288541339648	ethnic group	no	no	no	no	no
+851783866352316417	religion	no	no	no	no	no
+851901439131693057	religion	no	no	no	yes	no
+851906322283016192	religion	no	weak	no	no	yes
+851917087018823680	ethnic group	no	no	no	no	no
+851929153838469121	ethnic group	no	no	no	no	no
+852076513906147328	religion	no	no	no	no	no
+852096741423927296	Roma	no	no	no	no	no
+852105842598055937	ethnic group	no	no	no	no	yes
+852112945391816704	ethnic group	no	no	no	no	no
+852138571842682880	religion	yes	strong	strong	no	yes
+852190502061563906	religion	no	no	no	no	no
+852209662590148610	ethnic group	no	no	no	no	no
+852214297929412608	Roma	no	no	no	no	no
+852215287143428096	ethnic group	no	no	no	no	no
+852419140275064832	ethnic group	no	no	no	no	no
+852455272207536129	Roma	no	weak	no	no	yes
+852461152751697921	ethnic group	no	no	no	no	no
+852484030943690754	ethnic group	no	weak	no	no	yes
+852495826064736256	Roma	no	no	no	no	no
+852569857270743040	religion	no	no	no	no	no
+852586310581800960	ethnic group	no	no	no	no	no
+852600755500580864	Roma	no	no	weak	no	no
+852621756032581632	religion	no	no	no	no	no
+852757063075676160	ethnic group	no	no	no	no	no
+852774899613483010	religion	no	no	no	no	no
+852830118397452288	religion	yes	strong	strong	no	no
+852832199413972992	Roma	no	no	no	no	no
+852907969524240384	ethnic group	no	no	no	no	no
+852921955707736065	religion	no	no	strong	no	yes
+852950621842014209	Roma	no	no	no	no	no
+852995570985840641	ethnic group	no	no	no	no	no
+853037201340461056	religion	no	no	no	no	no
+853108410795032577	religion	no	no	weak	no	no
+853168519663329280	religion	no	no	no	no	no
+853176973249662976	ethnic group	no	no	no	no	no
+853235535552425984	ethnic group	no	no	no	no	no
+853240662908710912	ethnic group	no	no	no	no	no
+853245684811800576	ethnic group	no	no	no	yes	no
+853255166862163969	ethnic group	no	no	no	no	no
+853266782446026753	Roma	yes	weak	strong	no	yes
+853293441970819072	religion	no	no	no	no	no
+853318107552776195	religion	no	no	no	no	no
+853345973669593088	religion	no	no	no	no	no
+853539924393545728	religion	no	no	no	yes	no
+853545751087120384	religion	no	strong	no	no	yes
+853550287931486208	religion	no	no	no	no	no
+853596780239388676	ethnic group	no	no	no	no	no
+853620290643009536	religion	no	no	no	yes	no
+853659371653529600	religion	yes	strong	no	no	yes
+853678498732441600	Roma	no	no	weak	no	yes
+853706781503229952	ethnic group	no	no	no	no	no
+854025820666462209	ethnic group	no	no	no	no	no
+854034930304774144	ethnic group	yes	weak	no	no	no
+854045565813960704	religion	no	no	no	no	no
+854058219320332289	religion	no	no	no	no	no
+854186879180210176	ethnic group	no	no	no	no	no
+854233058693832704	ethnic group	no	no	weak	yes	no
+854233182350303232	ethnic group	no	no	no	no	no
+854284530420768769	ethnic group	no	no	no	no	no
+854318761863761920	ethnic group	no	no	no	no	no
+854407915444334592	ethnic group	no	weak	no	no	no
+854585947131871232	ethnic group	no	no	no	no	no
+854642554553245696	ethnic group	no	no	no	no	no
+854672310460182529	Roma	yes	strong	strong	no	yes
+854678323422691332	Roma	no	no	no	no	no
+854752934696976387	ethnic group	no	no	no	no	no
+854754452376625152	Roma	yes	no	no	no	no
+854767083627982848	Roma	no	no	no	no	yes
+854769444555542529	ethnic group	no	weak	no	yes	no
+854777171142946823	ethnic group	no	no	no	no	no
+854777826570096647	religion	no	weak	strong	no	yes
+854997517930508288	ethnic group	no	no	no	no	no
+854999525173448704	religion	no	no	no	no	no
+855016966054187008	religion	no	no	no	no	no
+855096241574875137	ethnic group	no	no	weak	no	yes
+855154441003167745	religion	yes	weak	no	no	yes
+855159601221783552	religion	no	weak	no	no	no
+855171882169114624	religion	yes	weak	no	no	no
+855174216311865344	religion	yes	strong	no	no	no
+855182997431226369	religion	no	no	no	no	no
+855207356162076672	religion	no	no	no	no	no
+855316856525148163	religion	no	weak	no	no	no
+855330315325194241	ethnic group	no	no	no	no	no
+855337475073376257	religion	no	no	no	no	no
+855345649729941504	religion	no	no	no	no	no
+855350332439883778	Roma	no	no	no	no	no
+855351591578341376	religion	no	no	no	no	no
+855376726096048129	religion	no	no	no	no	no
+855391453329182720	ethnic group	no	no	no	no	no
+855402970187538432	religion	no	weak	no	yes	no
+855447574236483584	religion	no	weak	no	no	no
+855466103123959809	ethnic group	no	no	no	no	no
+855495343932407808	religion	no	no	no	no	no
+855505452750209024	religion	no	no	weak	yes	no
+855507890668490753	religion	yes	no	no	no	yes
+855635234238410752	ethnic group	no	no	no	no	no
+855644279598981120	Roma	no	no	no	no	no
+855663990059433984	Roma	no	weak	strong	no	yes
+855690398425112576	Roma	no	no	no	no	no
+855692896200032256	ethnic group	no	no	no	no	no
+855707013468364800	religion	no	no	no	no	no
+855752611894624256	religion	yes	no	no	no	yes
+855754280791396352	ethnic group	no	no	strong	no	no
+855766880497389568	Roma	no	no	no	no	no
+855768711898308610	ethnic group	no	no	no	yes	no
+855807480097406977	ethnic group	no	no	strong	no	yes
+855848252415062017	ethnic group	no	no	no	no	no
+855896334817165314	ethnic group	no	no	no	no	no
+856055240830971904	ethnic group	no	no	no	no	no
+856064924052848641	ethnic group	no	no	no	no	no
+856093936556941312	religion	no	weak	weak	no	no
+856164932714459136	ethnic group	no	no	no	no	no
+856194450309206018	ethnic group	no	no	no	no	no
+856213656895442944	religion	no	no	no	no	no
+856230291056340994	ethnic group	no	no	no	no	no
+856256790220218369	religion	no	no	no	no	no
+856392360900665344	religion	no	no	no	yes	no
+856478911923986433	religion	no	no	no	no	no
+856493762750664704	Roma	no	no	no	no	yes
+856496715825917953	Roma	no	no	no	no	yes
+856499691898490880	ethnic group	no	no	weak	no	no
+856556101625688066	ethnic group	no	no	no	no	yes
+856583583145840640	religion	no	no	no	no	no
+856587915484438532	religion	no	no	no	no	no
+856596187067150336	ethnic group	no	no	no	no	no
+856753506912436224	Roma	no	no	no	no	no
+856760346643767296	religion	no	weak	no	no	no
+856801181154332672	religion	yes	strong	no	no	yes
+856838993673105409	ethnic group	no	no	no	no	no
+856851306744512512	religion	yes	no	no	yes	yes
+856894184241934336	ethnic group	no	no	no	no	no
+856906786607161345	ethnic group	no	no	no	no	no
+856906801887010819	ethnic group	no	no	no	no	yes
+856924597995941888	Roma	no	no	no	no	no
