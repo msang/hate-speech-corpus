@@ -18,7 +18,7 @@ If you use the resource, please cite:
 @InProceedings{PolettoEtAlCLIC2017,
   author    = {Fabio Poletto and Marco Stranisci and Manuela Sanguinetti and Viviana Patti and Cristina Bosco},
   title     = {Hate Speech Annotation: Analysis of an Italian Twitter Corpus},
-  booktitle = {Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017) (to appear)},
+  booktitle = {Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)},
   month     = {},
   year      = {2017},
   address   = {},
