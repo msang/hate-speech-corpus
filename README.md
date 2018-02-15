@@ -1,4 +1,4 @@
-# An Italian Twitter Corpus of Hate Speech
+# Italian Twitter Corpus of Hate Speech
 
 ## Corpus description
 
