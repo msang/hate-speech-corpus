@@ -28,9 +28,9 @@ If you use the resource, please cite:
 }
 ~~~
 
-Other references:
+### Other references:
 
-Poletto F., Stranisci M.,Sanguinetti M., Patti V., Bosco C. (2017) Hate speech annotation: Analysis of an Italian twitter corpus. In: Proceedings of the 4th Italian Conference on Computational Linguistics (CLiC-it 2017), Rome, Italy.
+Poletto F., Stranisci M.,Sanguinetti M., Patti V., Bosco C. (2017) Hate speech annotation: Analysis of an Italian Twitter corpus. In: Proceedings of the 4th Italian Conference on Computational Linguistics (CLiC-it 2017), Rome, Italy.
 
 
 
