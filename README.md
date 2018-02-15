@@ -2,7 +2,7 @@
 
 ## Corpus description
 
-This is a Twitter corpus built with the aim of representing and analyzing hate speech against some minority groups in Italy, immigrants in paricular, but also Muslims and Roma.  
+This is a Twitter corpus built with the aim of representing and analyzing hate speech against some minority groups in Italy: immigrants in particular, but also Muslims and Roma.  
 
 The amount of annotated data currently available in this repository consists of 1,827 tweets, thoroughly revised by expert annotators; in the meantime, it has also been expanded with brand new data, annotated in part by experts and in part by CrowdFlower contributors. However, due to the fact that the resource is going to be used within the context of an [evaluation campaign](http://www.evalita.it/2018), we plan to make the whole dataset freely available not until Fall 2018.
 
