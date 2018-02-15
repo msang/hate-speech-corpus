@@ -4,7 +4,7 @@
 
 This is a Twitter corpus built with the aim of representing and analysing hate speech against some minority groups in Italy, namely muslims, immigrants and Roma.  
 
-The amount of annotated data currently consists of 1,827 tweets, thoroughly revised by expert annotators, but the corpus will be soon expanded with brand new data.
+The amount of annotated data currently released in the repository consists of 1,827 tweets, thoroughly revised by expert annotators; in the meantime, it has also been expanded with brand new data, annotated in part by experts and in part by CrowdFlower contributors. However, due to the fact that the resource  will be used within the context of an [evaluation campaign](http://www.evalita.it/2018), we plan to make the whole dataset freely available and accessible for non-commercial use by the end of 2018.
 
 Similar to the one provided by [Wasseem and Hovy (2016)](https://github.com/ZeerakW/hatespeech), the corpus released here only contains the tweets' ID and their annotation. The content of each tweet can thus be retrieved using the Twitter APIs and querying the corresponding ID.
 
@@ -15,18 +15,23 @@ The corpus development forms part of the [Hate Speech Monitoring](http://hatespe
 If you use the resource, please cite:
 
 ~~~
-@InProceedings{PolettoEtAlCLIC2017,
-  author    = {Fabio Poletto and Marco Stranisci and Manuela Sanguinetti and Viviana Patti and Cristina Bosco},
-  title     = {Hate Speech Annotation: Analysis of an Italian Twitter Corpus},
-  booktitle = {Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)},
+@InProceedings{SanguinettiEtAlCLIC2018,
+  author    = {Manuela Sanguinetti and Fabio Poletto and Cristina Bosco and Viviana Patti and Marco Stranisci},
+  title     = {An Italian Twitter Corpus of Hate Speech against Immigrants},
+  booktitle = {Proceedings of the 11th Conference on Language Resources and Evaluation (LREC2018), May 2018, Miyazaki, Japan},
   month     = {},
-  year      = {2017},
+  year      = {to appear},
   address   = {},
   publisher = {},
   pages     = {},
   url       = {}
 }
 ~~~
+
+Other references:
+
+Poletto F., Stranisci M.,Sanguinetti M., Patti V., Bosco C. (2017) Hate speech annotation: Analysis of an Italian twitter corpus. In: Proceedings of the 4th Italian Conference on Computational Linguistics (CLiC-it 2017), Rome, Italy.
+
 
 
 ## Acknowledgements
