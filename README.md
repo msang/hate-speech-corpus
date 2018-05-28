@@ -15,15 +15,15 @@ The corpus development forms part of the [Hate Speech Monitoring](http://hatespe
 If you use the resource, please cite:
 
 ~~~
-@InProceedings{SanguinettiEtAlCLIC2018,
+@InProceedings{SanguinettiEtAlLREC2018,
   author    = {Manuela Sanguinetti and Fabio Poletto and Cristina Bosco and Viviana Patti and Marco Stranisci},
   title     = {An Italian Twitter Corpus of Hate Speech against Immigrants},
   booktitle = {Proceedings of the 11th Conference on Language Resources and Evaluation (LREC2018), May 2018, Miyazaki, Japan},
   month     = {},
-  year      = {to appear},
+  year      = {2018},
   address   = {},
   publisher = {},
-  pages     = {},
+  pages     = {2798--2895},
   url       = {}
 }
 ~~~
